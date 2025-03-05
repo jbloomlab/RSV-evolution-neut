@@ -359,21 +359,3 @@ serum,virus,replicate,concentration,well_id,plate_name,experiment_rep,fraction i
 87_9,RSV B 1982,2,1.372e-05,E8,V2P7,RSV_Historical_Sera_1,1.238,2025.01.09
 87_9,RSV B 1982,2,4.572e-06,E9,V2P7,RSV_Historical_Sera_1,1.339,2025.01.09
 87_9,RSV B 1982,2,1.524e-06,E10,V2P7,RSV_Historical_Sera_1,1.352,2025.01.09
-BEI negative,RSV B 1982,1,0.01,B2,V2P7,RSV_Historical_Sera_1,0.9164,2025.01.09
-BEI negative,RSV B 1982,1,0.003333,B3,V2P7,RSV_Historical_Sera_1,1.313,2025.01.09
-BEI negative,RSV B 1982,1,0.001111,B4,V2P7,RSV_Historical_Sera_1,0.8926,2025.01.09
-BEI negative,RSV B 1982,1,0.0003704,B5,V2P7,RSV_Historical_Sera_1,0.8669,2025.01.09
-BEI negative,RSV B 1982,1,0.0001235,B6,V2P7,RSV_Historical_Sera_1,0.3173,2025.01.09
-BEI negative,RSV B 1982,1,4.115e-05,B7,V2P7,RSV_Historical_Sera_1,0.8662,2025.01.09
-BEI negative,RSV B 1982,1,1.372e-05,B8,V2P7,RSV_Historical_Sera_1,0.8034,2025.01.09
-BEI negative,RSV B 1982,1,4.572e-06,B9,V2P7,RSV_Historical_Sera_1,0.9891,2025.01.09
-BEI negative,RSV B 1982,1,1.524e-06,B10,V2P7,RSV_Historical_Sera_1,1.626,2025.01.09
-BEI negative,RSV B 1982,2,0.01,C2,V2P7,RSV_Historical_Sera_1,0.8609,2025.01.09
-BEI negative,RSV B 1982,2,0.003333,C3,V2P7,RSV_Historical_Sera_1,0.7466,2025.01.09
-BEI negative,RSV B 1982,2,0.001111,C4,V2P7,RSV_Historical_Sera_1,0.9534,2025.01.09
-BEI negative,RSV B 1982,2,0.0003704,C5,V2P7,RSV_Historical_Sera_1,0.8305,2025.01.09
-BEI negative,RSV B 1982,2,0.0001235,C6,V2P7,RSV_Historical_Sera_1,0.7671,2025.01.09
-BEI negative,RSV B 1982,2,4.115e-05,C7,V2P7,RSV_Historical_Sera_1,1.594,2025.01.09
-BEI negative,RSV B 1982,2,1.372e-05,C8,V2P7,RSV_Historical_Sera_1,0.7697,2025.01.09
-BEI negative,RSV B 1982,2,4.572e-06,C9,V2P7,RSV_Historical_Sera_1,1.156,2025.01.09
-BEI negative,RSV B 1982,2,1.524e-06,C10,V2P7,RSV_Historical_Sera_1,0.9475,2025.01.09

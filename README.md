@@ -20,8 +20,8 @@ Study done by Cassie Simonich and Teagan McMahon starting in 2024. This study va
   - `summary_tables/`: manually reformated data useful in the paper (ex. summary IC50/NT50, antibody sequences)
 - **04_plasmid_maps/**
   - includes all plasmid maps (.gb) used in the study
-- **05_trees/**
-  - includes RSV-A and RSV-B F .json phylogenetic trees (Jesse will update)
+- [./auspice/](auspice): 
+  - This directory includes JSON trees for RSV A and B F proteins, named so that they display via [Nextstrain Community Builds](https://docs.nextstrain.org/en/latest/guides/share/community-builds.html) at [https://nextstrain.org/community/jbloomlab/RSV-evolution-neut@main/RSV-A-F](https://nextstrain.org/community/jbloomlab/RSV-evolution-neut@main/RSV-A-F) and [https://nextstrain.org/community/jbloomlab/RSV-evolution-neut@main/RSV-B-F](https://nextstrain.org/community/jbloomlab/RSV-evolution-neut@main/RSV-B-F). These trees were created by running the NextStrain RSV build at [https://github.com/nextstrain/rsv](https://github.com/nextstrain/rsv) but removing the step to subsample sequences for the F gene builds, on May-9-2024.
 
 ## Setup Instructions
 

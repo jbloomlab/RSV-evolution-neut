@@ -1,0 +1,59 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2024.11.01,G1,Greninger1,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G1,Greninger2,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G1,Greninger3,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G2,Greninger4,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G2,Greninger5,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G2,Greninger6,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G3,Greninger7,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G3,Greninger8,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G3,Greninger9,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G4,Greninger10,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G4,Greninger11,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G4,Greninger12,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G5,Greninger13,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G5,Greninger14,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G5,Greninger15,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G6,Greninger16,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G6,Greninger17,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G6,Greninger18,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G7,Greninger19,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G7,Greninger20,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G7,Greninger21,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G8,Greninger22,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G8,Greninger23,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G8,Greninger24,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G9,Greninger25,1,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G9,Greninger26,2,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G9,Greninger27,3,RSV A2,layoutTM.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,G10,Greninger28,1,RSV A2,layoutTM_G28.csv,0.025,3,V,keep,Greninger_2
+2024.11.01,Depleted sera P2 Long,Pooled Sera Depleted with A2 preF ,1,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 Long,Pooled Sera Depleted with Long F ,2,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 Long,Pooled Sera Depleted with Long G,3,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 A2020,Pooled Sera Depleted with A2 preF ,1,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 A2020,Pooled Sera Depleted with Long F ,2,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 A2020,Pooled Sera Depleted with Long G,3,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 B2024,Pooled Sera Depleted with A2 preF ,1,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 B2024,Pooled Sera Depleted with Long F ,2,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P2 B2024,Pooled Sera Depleted with Long G,3,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 Long,Pooled Sera Undepleted,1,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 Long,Pooled Sera Mock Depleted,2,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 Long,Pooled Sera Depleted with Long preF ,3,RSV Long,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 A2020,Pooled Sera Undepleted,1,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 A2020,Pooled Sera Mock Depleted,2,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 A2020,Pooled Sera Depleted with Long preF ,3,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 B2024,Pooled Sera Undepleted,1,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 B2024,Pooled Sera Mock Depleted,2,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,Depleted sera P1 B2024,Pooled Sera Depleted with Long preF ,3,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Depleted_Sera_2
+2024.11.01,TIM1 A2020,Nirsevimab_TIM1,1,RSV A 2020,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.01,TIM1 A2020,Pooled Sera_TIM1,2,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,TIM1 A2020,87_9_TIM1,3,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,TIM1 Long,Nirsevimab_TIM1,1,RSV Long,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.01,TIM1 Long,Pooled Sera_TIM1,2,RSV Long,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,TIM1 Long,87_9_TIM1,3,RSV Long,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,293T A2020,Nirsevimab_293T,1,RSV A 2020,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.01,293T A2020,Pooled Sera_293T,2,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,293T A2020,87_9_293T,3,RSV A 2020,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,293T Long,Nirsevimab_293T,1,RSV Long,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.01,293T Long,Pooled Sera_293T,2,RSV Long,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.01,293T Long,87_9_293T,3,RSV Long,layoutTM.csv,0.025,3,V,keep,Cell_Line_2

@@ -1,0 +1,1153 @@
+serum,virus,replicate,concentration,well_id,plate_name,experiment_rep,fraction infectivity,input_folder
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.025,F2,Depleted sera P2Long,Depleted_Sera_1,0.0007527,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.008333,F3,Depleted sera P2Long,Depleted_Sera_1,0.106,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.002778,F4,Depleted sera P2Long,Depleted_Sera_1,0.6185,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.0009259,F5,Depleted sera P2Long,Depleted_Sera_1,0.8979,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.0003086,F6,Depleted sera P2Long,Depleted_Sera_1,0.9544,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,0.0001029,F7,Depleted sera P2Long,Depleted_Sera_1,0.6461,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,3.429e-05,F8,Depleted sera P2Long,Depleted_Sera_1,0.8485,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,1.143e-05,F9,Depleted sera P2Long,Depleted_Sera_1,0.9028,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,1,3.81e-06,F10,Depleted sera P2Long,Depleted_Sera_1,0.8868,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.025,G2,Depleted sera P2Long,Depleted_Sera_1,0.0005754,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.008333,G3,Depleted sera P2Long,Depleted_Sera_1,0.1217,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.002778,G4,Depleted sera P2Long,Depleted_Sera_1,0.6785,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.0009259,G5,Depleted sera P2Long,Depleted_Sera_1,0.8803,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.0003086,G6,Depleted sera P2Long,Depleted_Sera_1,0.9241,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,0.0001029,G7,Depleted sera P2Long,Depleted_Sera_1,1.147,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,3.429e-05,G8,Depleted sera P2Long,Depleted_Sera_1,0.6013,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,1.143e-05,G9,Depleted sera P2Long,Depleted_Sera_1,0.8667,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV Long,2,3.81e-06,G10,Depleted sera P2Long,Depleted_Sera_1,0.7238,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.025,D2,Depleted sera P2Long,Depleted_Sera_1,0.02557,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.008333,D3,Depleted sera P2Long,Depleted_Sera_1,0.4355,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.002778,D4,Depleted sera P2Long,Depleted_Sera_1,0.8221,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.0009259,D5,Depleted sera P2Long,Depleted_Sera_1,0.8386,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.0003086,D6,Depleted sera P2Long,Depleted_Sera_1,1.313,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,0.0001029,D7,Depleted sera P2Long,Depleted_Sera_1,0.9725,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,3.429e-05,D8,Depleted sera P2Long,Depleted_Sera_1,1.046,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,1.143e-05,D9,Depleted sera P2Long,Depleted_Sera_1,1.169,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,1,3.81e-06,D10,Depleted sera P2Long,Depleted_Sera_1,1.003,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.025,E2,Depleted sera P2Long,Depleted_Sera_1,0.03362,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.008333,E3,Depleted sera P2Long,Depleted_Sera_1,0.3403,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.002778,E4,Depleted sera P2Long,Depleted_Sera_1,1.157,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.0009259,E5,Depleted sera P2Long,Depleted_Sera_1,1.138,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.0003086,E6,Depleted sera P2Long,Depleted_Sera_1,1.181,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,0.0001029,E7,Depleted sera P2Long,Depleted_Sera_1,1.188,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,3.429e-05,E8,Depleted sera P2Long,Depleted_Sera_1,0.8848,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,1.143e-05,E9,Depleted sera P2Long,Depleted_Sera_1,1.194,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV Long,2,3.81e-06,E10,Depleted sera P2Long,Depleted_Sera_1,0.8645,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.025,B2,Depleted sera P2Long,Depleted_Sera_1,0.0003081,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.008333,B3,Depleted sera P2Long,Depleted_Sera_1,0.0005085,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.002778,B4,Depleted sera P2Long,Depleted_Sera_1,0.00084,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.0009259,B5,Depleted sera P2Long,Depleted_Sera_1,0.001206,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.0003086,B6,Depleted sera P2Long,Depleted_Sera_1,0.08472,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,0.0001029,B7,Depleted sera P2Long,Depleted_Sera_1,0.2893,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,3.429e-05,B8,Depleted sera P2Long,Depleted_Sera_1,0.7791,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,1.143e-05,B9,Depleted sera P2Long,Depleted_Sera_1,0.7876,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,1,3.81e-06,B10,Depleted sera P2Long,Depleted_Sera_1,0.8617,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.025,C2,Depleted sera P2Long,Depleted_Sera_1,0.0006016,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.008333,C3,Depleted sera P2Long,Depleted_Sera_1,0.001771,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.002778,C4,Depleted sera P2Long,Depleted_Sera_1,0.003531,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.0009259,C5,Depleted sera P2Long,Depleted_Sera_1,0.01086,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.0003086,C6,Depleted sera P2Long,Depleted_Sera_1,0.1329,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,0.0001029,C7,Depleted sera P2Long,Depleted_Sera_1,0.3734,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,3.429e-05,C8,Depleted sera P2Long,Depleted_Sera_1,0.7105,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,1.143e-05,C9,Depleted sera P2Long,Depleted_Sera_1,0.8967,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV Long,2,3.81e-06,C10,Depleted sera P2Long,Depleted_Sera_1,1.095,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.025,F2,Depleted sera P2 A202,Depleted_Sera_1,0.1129,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.008333,F3,Depleted sera P2 A202,Depleted_Sera_1,0.5533,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.002778,F4,Depleted sera P2 A202,Depleted_Sera_1,0.957,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.0009259,F5,Depleted sera P2 A202,Depleted_Sera_1,0.8626,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.0003086,F6,Depleted sera P2 A202,Depleted_Sera_1,0.7865,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,0.0001029,F7,Depleted sera P2 A202,Depleted_Sera_1,0.7628,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,3.429e-05,F8,Depleted sera P2 A202,Depleted_Sera_1,1.056,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,1.143e-05,F9,Depleted sera P2 A202,Depleted_Sera_1,0.8237,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,1,3.81e-06,F10,Depleted sera P2 A202,Depleted_Sera_1,0.9466,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.025,G2,Depleted sera P2 A202,Depleted_Sera_1,0.1023,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.008333,G3,Depleted sera P2 A202,Depleted_Sera_1,0.6049,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.002778,G4,Depleted sera P2 A202,Depleted_Sera_1,0.8596,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.0009259,G5,Depleted sera P2 A202,Depleted_Sera_1,0.8991,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.0003086,G6,Depleted sera P2 A202,Depleted_Sera_1,0.9917,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,0.0001029,G7,Depleted sera P2 A202,Depleted_Sera_1,0.7177,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,3.429e-05,G8,Depleted sera P2 A202,Depleted_Sera_1,0.8644,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,1.143e-05,G9,Depleted sera P2 A202,Depleted_Sera_1,1.05,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV A 2020,2,3.81e-06,G10,Depleted sera P2 A202,Depleted_Sera_1,0.8109,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.025,D2,Depleted sera P2 A202,Depleted_Sera_1,0.3202,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.008333,D3,Depleted sera P2 A202,Depleted_Sera_1,0.6909,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.002778,D4,Depleted sera P2 A202,Depleted_Sera_1,0.7993,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.0009259,D5,Depleted sera P2 A202,Depleted_Sera_1,0.8237,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.0003086,D6,Depleted sera P2 A202,Depleted_Sera_1,0.795,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,0.0001029,D7,Depleted sera P2 A202,Depleted_Sera_1,0.9728,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,3.429e-05,D8,Depleted sera P2 A202,Depleted_Sera_1,0.9113,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,1.143e-05,D9,Depleted sera P2 A202,Depleted_Sera_1,0.8949,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,1,3.81e-06,D10,Depleted sera P2 A202,Depleted_Sera_1,1.022,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.025,E2,Depleted sera P2 A202,Depleted_Sera_1,0.3144,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.008333,E3,Depleted sera P2 A202,Depleted_Sera_1,0.789,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.002778,E4,Depleted sera P2 A202,Depleted_Sera_1,1.001,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.0009259,E5,Depleted sera P2 A202,Depleted_Sera_1,0.7366,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.0003086,E6,Depleted sera P2 A202,Depleted_Sera_1,0.9345,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,0.0001029,E7,Depleted sera P2 A202,Depleted_Sera_1,0.8906,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,3.429e-05,E8,Depleted sera P2 A202,Depleted_Sera_1,0.9746,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,1.143e-05,E9,Depleted sera P2 A202,Depleted_Sera_1,0.9144,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV A 2020,2,3.81e-06,E10,Depleted sera P2 A202,Depleted_Sera_1,0.9284,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.025,B2,Depleted sera P2 A202,Depleted_Sera_1,0.001501,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.008333,B3,Depleted sera P2 A202,Depleted_Sera_1,0.007104,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.002778,B4,Depleted sera P2 A202,Depleted_Sera_1,0.003784,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.0009259,B5,Depleted sera P2 A202,Depleted_Sera_1,0.1318,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.0003086,B6,Depleted sera P2 A202,Depleted_Sera_1,0.4431,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,0.0001029,B7,Depleted sera P2 A202,Depleted_Sera_1,0.7573,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,3.429e-05,B8,Depleted sera P2 A202,Depleted_Sera_1,0.7153,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,1.143e-05,B9,Depleted sera P2 A202,Depleted_Sera_1,0.8918,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,1,3.81e-06,B10,Depleted sera P2 A202,Depleted_Sera_1,0.9521,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.025,C2,Depleted sera P2 A202,Depleted_Sera_1,0.002251,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.008333,C3,Depleted sera P2 A202,Depleted_Sera_1,0.00372,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.002778,C4,Depleted sera P2 A202,Depleted_Sera_1,0.02378,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.0009259,C5,Depleted sera P2 A202,Depleted_Sera_1,0.1414,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.0003086,C6,Depleted sera P2 A202,Depleted_Sera_1,0.4555,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,0.0001029,C7,Depleted sera P2 A202,Depleted_Sera_1,0.7829,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,3.429e-05,C8,Depleted sera P2 A202,Depleted_Sera_1,0.9016,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,1.143e-05,C9,Depleted sera P2 A202,Depleted_Sera_1,0.7902,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV A 2020,2,3.81e-06,C10,Depleted sera P2 A202,Depleted_Sera_1,0.8413,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.025,F2,Depleted sera P2 B202,Depleted_Sera_1,0.09943,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.008333,F3,Depleted sera P2 B202,Depleted_Sera_1,0.3882,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.002778,F4,Depleted sera P2 B202,Depleted_Sera_1,0.7953,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.0009259,F5,Depleted sera P2 B202,Depleted_Sera_1,1.096,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.0003086,F6,Depleted sera P2 B202,Depleted_Sera_1,0.964,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,0.0001029,F7,Depleted sera P2 B202,Depleted_Sera_1,1.068,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,3.429e-05,F8,Depleted sera P2 B202,Depleted_Sera_1,1.188,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,1.143e-05,F9,Depleted sera P2 B202,Depleted_Sera_1,1.081,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,1,3.81e-06,F10,Depleted sera P2 B202,Depleted_Sera_1,1.133,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.025,G2,Depleted sera P2 B202,Depleted_Sera_1,0.06219,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.008333,G3,Depleted sera P2 B202,Depleted_Sera_1,0.4069,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.002778,G4,Depleted sera P2 B202,Depleted_Sera_1,0.7221,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.0009259,G5,Depleted sera P2 B202,Depleted_Sera_1,0.9836,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.0003086,G6,Depleted sera P2 B202,Depleted_Sera_1,1.154,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,0.0001029,G7,Depleted sera P2 B202,Depleted_Sera_1,1.22,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,3.429e-05,G8,Depleted sera P2 B202,Depleted_Sera_1,1.104,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,1.143e-05,G9,Depleted sera P2 B202,Depleted_Sera_1,1.123,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with A2 preF ,RSV B 2024,2,3.81e-06,G10,Depleted sera P2 B202,Depleted_Sera_1,1.252,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.025,D2,Depleted sera P2 B202,Depleted_Sera_1,0.1604,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.008333,D3,Depleted sera P2 B202,Depleted_Sera_1,0.4792,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.002778,D4,Depleted sera P2 B202,Depleted_Sera_1,0.9715,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.0009259,D5,Depleted sera P2 B202,Depleted_Sera_1,0.9034,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.0003086,D6,Depleted sera P2 B202,Depleted_Sera_1,0.9011,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,0.0001029,D7,Depleted sera P2 B202,Depleted_Sera_1,0.889,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,3.429e-05,D8,Depleted sera P2 B202,Depleted_Sera_1,1.05,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,1.143e-05,D9,Depleted sera P2 B202,Depleted_Sera_1,1.059,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,1,3.81e-06,D10,Depleted sera P2 B202,Depleted_Sera_1,1.11,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.025,E2,Depleted sera P2 B202,Depleted_Sera_1,0.1357,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.008333,E3,Depleted sera P2 B202,Depleted_Sera_1,0.5599,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.002778,E4,Depleted sera P2 B202,Depleted_Sera_1,0.8475,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.0009259,E5,Depleted sera P2 B202,Depleted_Sera_1,0.9314,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.0003086,E6,Depleted sera P2 B202,Depleted_Sera_1,1.089,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,0.0001029,E7,Depleted sera P2 B202,Depleted_Sera_1,1.211,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,3.429e-05,E8,Depleted sera P2 B202,Depleted_Sera_1,1.054,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,1.143e-05,E9,Depleted sera P2 B202,Depleted_Sera_1,1.026,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long F ,RSV B 2024,2,3.81e-06,E10,Depleted sera P2 B202,Depleted_Sera_1,1.116,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.025,B2,Depleted sera P2 B202,Depleted_Sera_1,0.002726,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.008333,B3,Depleted sera P2 B202,Depleted_Sera_1,0.002721,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.002778,B4,Depleted sera P2 B202,Depleted_Sera_1,0.01039,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.0009259,B5,Depleted sera P2 B202,Depleted_Sera_1,0.1934,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.0003086,B6,Depleted sera P2 B202,Depleted_Sera_1,0.4564,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,0.0001029,B7,Depleted sera P2 B202,Depleted_Sera_1,0.7748,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,3.429e-05,B8,Depleted sera P2 B202,Depleted_Sera_1,0.8899,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,1.143e-05,B9,Depleted sera P2 B202,Depleted_Sera_1,0.7706,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,1,3.81e-06,B10,Depleted sera P2 B202,Depleted_Sera_1,0.8302,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.025,C2,Depleted sera P2 B202,Depleted_Sera_1,0.003677,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.008333,C3,Depleted sera P2 B202,Depleted_Sera_1,0.005081,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.002778,C4,Depleted sera P2 B202,Depleted_Sera_1,0.04117,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.0009259,C5,Depleted sera P2 B202,Depleted_Sera_1,0.2003,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.0003086,C6,Depleted sera P2 B202,Depleted_Sera_1,0.5039,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,0.0001029,C7,Depleted sera P2 B202,Depleted_Sera_1,0.8806,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,3.429e-05,C8,Depleted sera P2 B202,Depleted_Sera_1,0.9193,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,1.143e-05,C9,Depleted sera P2 B202,Depleted_Sera_1,0.8671,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long G,RSV B 2024,2,3.81e-06,C10,Depleted sera P2 B202,Depleted_Sera_1,1.033,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.025,F2,Depleted sera P1 Long,Depleted_Sera_1,0.0001398,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.008333,F3,Depleted sera P1 Long,Depleted_Sera_1,0.0001528,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.002778,F4,Depleted sera P1 Long,Depleted_Sera_1,0.0001758,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.0009259,F5,Depleted sera P1 Long,Depleted_Sera_1,0.002686,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.0003086,F6,Depleted sera P1 Long,Depleted_Sera_1,0.109,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,0.0001029,F7,Depleted sera P1 Long,Depleted_Sera_1,0.4585,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,3.429e-05,F8,Depleted sera P1 Long,Depleted_Sera_1,0.4633,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,1.143e-05,F9,Depleted sera P1 Long,Depleted_Sera_1,0.6279,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,1,3.81e-06,F10,Depleted sera P1 Long,Depleted_Sera_1,0.8204,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.025,G2,Depleted sera P1 Long,Depleted_Sera_1,0.0001327,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.008333,G3,Depleted sera P1 Long,Depleted_Sera_1,0.0001212,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.002778,G4,Depleted sera P1 Long,Depleted_Sera_1,0.0001385,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.0009259,G5,Depleted sera P1 Long,Depleted_Sera_1,0.008638,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.0003086,G6,Depleted sera P1 Long,Depleted_Sera_1,0.1057,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,0.0001029,G7,Depleted sera P1 Long,Depleted_Sera_1,0.3221,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,3.429e-05,G8,Depleted sera P1 Long,Depleted_Sera_1,0.5724,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,1.143e-05,G9,Depleted sera P1 Long,Depleted_Sera_1,0.6316,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV Long,2,3.81e-06,G10,Depleted sera P1 Long,Depleted_Sera_1,0.8398,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.025,D2,Depleted sera P1 Long,Depleted_Sera_1,0.0006026,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.008333,D3,Depleted sera P1 Long,Depleted_Sera_1,0.002077,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.002778,D4,Depleted sera P1 Long,Depleted_Sera_1,0.004979,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.0009259,D5,Depleted sera P1 Long,Depleted_Sera_1,0.02269,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.0003086,D6,Depleted sera P1 Long,Depleted_Sera_1,0.1377,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,0.0001029,D7,Depleted sera P1 Long,Depleted_Sera_1,0.4477,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,3.429e-05,D8,Depleted sera P1 Long,Depleted_Sera_1,0.8953,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,1.143e-05,D9,Depleted sera P1 Long,Depleted_Sera_1,0.8835,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,1,3.81e-06,D10,Depleted sera P1 Long,Depleted_Sera_1,0.9052,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.025,E2,Depleted sera P1 Long,Depleted_Sera_1,0.0001893,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.008333,E3,Depleted sera P1 Long,Depleted_Sera_1,0.0003624,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.002778,E4,Depleted sera P1 Long,Depleted_Sera_1,0.0005432,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.0009259,E5,Depleted sera P1 Long,Depleted_Sera_1,0.01166,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.0003086,E6,Depleted sera P1 Long,Depleted_Sera_1,0.1042,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,0.0001029,E7,Depleted sera P1 Long,Depleted_Sera_1,0.2892,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,3.429e-05,E8,Depleted sera P1 Long,Depleted_Sera_1,0.4581,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,1.143e-05,E9,Depleted sera P1 Long,Depleted_Sera_1,0.7264,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV Long,2,3.81e-06,E10,Depleted sera P1 Long,Depleted_Sera_1,1.099,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.025,B2,Depleted sera P1 Long,Depleted_Sera_1,0.05322,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.008333,B3,Depleted sera P1 Long,Depleted_Sera_1,0.2113,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.002778,B4,Depleted sera P1 Long,Depleted_Sera_1,0.8371,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.0009259,B5,Depleted sera P1 Long,Depleted_Sera_1,1.159,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.0003086,B6,Depleted sera P1 Long,Depleted_Sera_1,1.102,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,0.0001029,B7,Depleted sera P1 Long,Depleted_Sera_1,1.043,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,3.429e-05,B8,Depleted sera P1 Long,Depleted_Sera_1,0.7722,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,1.143e-05,B9,Depleted sera P1 Long,Depleted_Sera_1,0.7981,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,1,3.81e-06,B10,Depleted sera P1 Long,Depleted_Sera_1,1.043,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.025,C2,Depleted sera P1 Long,Depleted_Sera_1,0.07005,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.008333,C3,Depleted sera P1 Long,Depleted_Sera_1,0.3351,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.002778,C4,Depleted sera P1 Long,Depleted_Sera_1,1.164,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.0009259,C5,Depleted sera P1 Long,Depleted_Sera_1,1.096,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.0003086,C6,Depleted sera P1 Long,Depleted_Sera_1,1.167,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,0.0001029,C7,Depleted sera P1 Long,Depleted_Sera_1,0.9292,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,3.429e-05,C8,Depleted sera P1 Long,Depleted_Sera_1,0.9759,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,1.143e-05,C9,Depleted sera P1 Long,Depleted_Sera_1,0.8283,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV Long,2,3.81e-06,C10,Depleted sera P1 Long,Depleted_Sera_1,0.9981,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.025,F2,Depleted sera P1 A2020,Depleted_Sera_1,0.001082,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.008333,F3,Depleted sera P1 A2020,Depleted_Sera_1,0.001207,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.002778,F4,Depleted sera P1 A2020,Depleted_Sera_1,0.00178,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.0009259,F5,Depleted sera P1 A2020,Depleted_Sera_1,0.1098,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.0003086,F6,Depleted sera P1 A2020,Depleted_Sera_1,0.5447,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,0.0001029,F7,Depleted sera P1 A2020,Depleted_Sera_1,0.7575,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,3.429e-05,F8,Depleted sera P1 A2020,Depleted_Sera_1,0.8695,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,1.143e-05,F9,Depleted sera P1 A2020,Depleted_Sera_1,0.8281,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,1,3.81e-06,F10,Depleted sera P1 A2020,Depleted_Sera_1,0.9926,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.025,G2,Depleted sera P1 A2020,Depleted_Sera_1,0.001159,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.008333,G3,Depleted sera P1 A2020,Depleted_Sera_1,0.001092,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.002778,G4,Depleted sera P1 A2020,Depleted_Sera_1,0.005219,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.0009259,G5,Depleted sera P1 A2020,Depleted_Sera_1,0.11,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.0003086,G6,Depleted sera P1 A2020,Depleted_Sera_1,0.554,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,0.0001029,G7,Depleted sera P1 A2020,Depleted_Sera_1,0.8553,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,3.429e-05,G8,Depleted sera P1 A2020,Depleted_Sera_1,1.168,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,1.143e-05,G9,Depleted sera P1 A2020,Depleted_Sera_1,1.065,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV A 2020,2,3.81e-06,G10,Depleted sera P1 A2020,Depleted_Sera_1,0.961,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.025,D2,Depleted sera P1 A2020,Depleted_Sera_1,0.002369,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.008333,D3,Depleted sera P1 A2020,Depleted_Sera_1,0.007697,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.002778,D4,Depleted sera P1 A2020,Depleted_Sera_1,0.01034,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.0009259,D5,Depleted sera P1 A2020,Depleted_Sera_1,0.2132,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.0003086,D6,Depleted sera P1 A2020,Depleted_Sera_1,0.5555,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,0.0001029,D7,Depleted sera P1 A2020,Depleted_Sera_1,1.002,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,3.429e-05,D8,Depleted sera P1 A2020,Depleted_Sera_1,0.851,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,1.143e-05,D9,Depleted sera P1 A2020,Depleted_Sera_1,0.9692,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,1,3.81e-06,D10,Depleted sera P1 A2020,Depleted_Sera_1,0.9848,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.025,E2,Depleted sera P1 A2020,Depleted_Sera_1,0.001285,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.008333,E3,Depleted sera P1 A2020,Depleted_Sera_1,0.005852,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.002778,E4,Depleted sera P1 A2020,Depleted_Sera_1,0.01101,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.0009259,E5,Depleted sera P1 A2020,Depleted_Sera_1,0.1707,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.0003086,E6,Depleted sera P1 A2020,Depleted_Sera_1,0.6421,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,0.0001029,E7,Depleted sera P1 A2020,Depleted_Sera_1,1.105,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,3.429e-05,E8,Depleted sera P1 A2020,Depleted_Sera_1,0.904,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,1.143e-05,E9,Depleted sera P1 A2020,Depleted_Sera_1,0.9897,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV A 2020,2,3.81e-06,E10,Depleted sera P1 A2020,Depleted_Sera_1,1.104,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.025,B2,Depleted sera P1 A2020,Depleted_Sera_1,0.1776,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.008333,B3,Depleted sera P1 A2020,Depleted_Sera_1,0.8076,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.002778,B4,Depleted sera P1 A2020,Depleted_Sera_1,1.109,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.0009259,B5,Depleted sera P1 A2020,Depleted_Sera_1,1.031,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.0003086,B6,Depleted sera P1 A2020,Depleted_Sera_1,1.059,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,0.0001029,B7,Depleted sera P1 A2020,Depleted_Sera_1,1.122,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,3.429e-05,B8,Depleted sera P1 A2020,Depleted_Sera_1,0.9712,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,1.143e-05,B9,Depleted sera P1 A2020,Depleted_Sera_1,0.8548,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,1,3.81e-06,B10,Depleted sera P1 A2020,Depleted_Sera_1,0.8544,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.025,C2,Depleted sera P1 A2020,Depleted_Sera_1,0.2483,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.008333,C3,Depleted sera P1 A2020,Depleted_Sera_1,0.7692,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.002778,C4,Depleted sera P1 A2020,Depleted_Sera_1,1.175,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.0009259,C5,Depleted sera P1 A2020,Depleted_Sera_1,1.095,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.0003086,C6,Depleted sera P1 A2020,Depleted_Sera_1,1.274,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,0.0001029,C7,Depleted sera P1 A2020,Depleted_Sera_1,1.005,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,3.429e-05,C8,Depleted sera P1 A2020,Depleted_Sera_1,0.8948,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,1.143e-05,C9,Depleted sera P1 A2020,Depleted_Sera_1,0.9619,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV A 2020,2,3.81e-06,C10,Depleted sera P1 A2020,Depleted_Sera_1,0.96,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.025,F2,Depleted sera P1 B2024,Depleted_Sera_1,0.003348,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.008333,F3,Depleted sera P1 B2024,Depleted_Sera_1,0.003057,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.002778,F4,Depleted sera P1 B2024,Depleted_Sera_1,0.02335,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.0009259,F5,Depleted sera P1 B2024,Depleted_Sera_1,0.1831,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.0003086,F6,Depleted sera P1 B2024,Depleted_Sera_1,0.411,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,0.0001029,F7,Depleted sera P1 B2024,Depleted_Sera_1,0.748,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,3.429e-05,F8,Depleted sera P1 B2024,Depleted_Sera_1,1.15,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,1.143e-05,F9,Depleted sera P1 B2024,Depleted_Sera_1,0.9854,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,1,3.81e-06,F10,Depleted sera P1 B2024,Depleted_Sera_1,1.071,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.025,G2,Depleted sera P1 B2024,Depleted_Sera_1,0.003258,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.008333,G3,Depleted sera P1 B2024,Depleted_Sera_1,0.002953,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.002778,G4,Depleted sera P1 B2024,Depleted_Sera_1,0.02132,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.0009259,G5,Depleted sera P1 B2024,Depleted_Sera_1,0.2035,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.0003086,G6,Depleted sera P1 B2024,Depleted_Sera_1,0.3706,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,0.0001029,G7,Depleted sera P1 B2024,Depleted_Sera_1,0.7475,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,3.429e-05,G8,Depleted sera P1 B2024,Depleted_Sera_1,1.08,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,1.143e-05,G9,Depleted sera P1 B2024,Depleted_Sera_1,1.225,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Undepleted,RSV B 2024,2,3.81e-06,G10,Depleted sera P1 B2024,Depleted_Sera_1,1.09,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.025,D2,Depleted sera P1 B2024,Depleted_Sera_1,0.003922,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.008333,D3,Depleted sera P1 B2024,Depleted_Sera_1,0.007203,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.002778,D4,Depleted sera P1 B2024,Depleted_Sera_1,0.02156,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.0009259,D5,Depleted sera P1 B2024,Depleted_Sera_1,0.148,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.0003086,D6,Depleted sera P1 B2024,Depleted_Sera_1,0.2824,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,0.0001029,D7,Depleted sera P1 B2024,Depleted_Sera_1,0.6879,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,3.429e-05,D8,Depleted sera P1 B2024,Depleted_Sera_1,0.7828,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,1.143e-05,D9,Depleted sera P1 B2024,Depleted_Sera_1,0.972,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,1,3.81e-06,D10,Depleted sera P1 B2024,Depleted_Sera_1,1.068,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.025,E2,Depleted sera P1 B2024,Depleted_Sera_1,0.00332,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.008333,E3,Depleted sera P1 B2024,Depleted_Sera_1,0.007566,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.002778,E4,Depleted sera P1 B2024,Depleted_Sera_1,0.01083,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.0009259,E5,Depleted sera P1 B2024,Depleted_Sera_1,0.2151,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.0003086,E6,Depleted sera P1 B2024,Depleted_Sera_1,0.4901,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,0.0001029,E7,Depleted sera P1 B2024,Depleted_Sera_1,0.656,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,3.429e-05,E8,Depleted sera P1 B2024,Depleted_Sera_1,0.9682,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,1.143e-05,E9,Depleted sera P1 B2024,Depleted_Sera_1,1.048,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Mock Depleted,RSV B 2024,2,3.81e-06,E10,Depleted sera P1 B2024,Depleted_Sera_1,0.962,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.025,B2,Depleted sera P1 B2024,Depleted_Sera_1,0.1568,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.008333,B3,Depleted sera P1 B2024,Depleted_Sera_1,0.4603,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.002778,B4,Depleted sera P1 B2024,Depleted_Sera_1,0.5601,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.0009259,B5,Depleted sera P1 B2024,Depleted_Sera_1,0.6135,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.0003086,B6,Depleted sera P1 B2024,Depleted_Sera_1,0.7704,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,0.0001029,B7,Depleted sera P1 B2024,Depleted_Sera_1,0.8886,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,3.429e-05,B8,Depleted sera P1 B2024,Depleted_Sera_1,0.7699,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,1.143e-05,B9,Depleted sera P1 B2024,Depleted_Sera_1,0.7218,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,1,3.81e-06,B10,Depleted sera P1 B2024,Depleted_Sera_1,0.881,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.025,C2,Depleted sera P1 B2024,Depleted_Sera_1,0.2191,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.008333,C3,Depleted sera P1 B2024,Depleted_Sera_1,0.4433,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.002778,C4,Depleted sera P1 B2024,Depleted_Sera_1,0.697,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.0009259,C5,Depleted sera P1 B2024,Depleted_Sera_1,0.8881,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.0003086,C6,Depleted sera P1 B2024,Depleted_Sera_1,0.849,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,0.0001029,C7,Depleted sera P1 B2024,Depleted_Sera_1,0.8509,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,3.429e-05,C8,Depleted sera P1 B2024,Depleted_Sera_1,0.8009,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,1.143e-05,C9,Depleted sera P1 B2024,Depleted_Sera_1,0.9058,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera Depleted with Long preF ,RSV B 2024,2,3.81e-06,C10,Depleted sera P1 B2024,Depleted_Sera_1,0.932,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.025,F2,G6,Greninger_1,0.05809,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.008333,F3,G6,Greninger_1,0.2354,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.002778,F4,G6,Greninger_1,0.4089,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.0009259,F5,G6,Greninger_1,0.5713,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.0003086,F6,G6,Greninger_1,0.8481,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,0.0001029,F7,G6,Greninger_1,0.8172,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,3.429e-05,F8,G6,Greninger_1,0.7847,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,1.143e-05,F9,G6,Greninger_1,0.9333,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,1,3.81e-06,F10,G6,Greninger_1,1.165,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.025,G2,G6,Greninger_1,0.02523,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.008333,G3,G6,Greninger_1,0.2197,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.002778,G4,G6,Greninger_1,0.4021,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.0009259,G5,G6,Greninger_1,0.657,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.0003086,G6,G6,Greninger_1,0.9435,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,0.0001029,G7,G6,Greninger_1,1.06,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,3.429e-05,G8,G6,Greninger_1,1.03,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,1.143e-05,G9,G6,Greninger_1,0.8903,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger16,RSV A2,2,3.81e-06,G10,G6,Greninger_1,0.9781,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.025,D2,G6,Greninger_1,0.06491,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.008333,D3,G6,Greninger_1,0.2172,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.002778,D4,G6,Greninger_1,0.5546,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.0009259,D5,G6,Greninger_1,0.83,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.0003086,D6,G6,Greninger_1,0.9257,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,0.0001029,D7,G6,Greninger_1,0.9156,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,3.429e-05,D8,G6,Greninger_1,0.9713,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,1.143e-05,D9,G6,Greninger_1,0.957,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,1,3.81e-06,D10,G6,Greninger_1,0.989,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.025,E2,G6,Greninger_1,0.01778,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.008333,E3,G6,Greninger_1,0.2171,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.002778,E4,G6,Greninger_1,0.5152,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.0009259,E5,G6,Greninger_1,0.8464,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.0003086,E6,G6,Greninger_1,1.073,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,0.0001029,E7,G6,Greninger_1,1.034,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,3.429e-05,E8,G6,Greninger_1,0.8937,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,1.143e-05,E9,G6,Greninger_1,0.9975,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger17,RSV A2,2,3.81e-06,E10,G6,Greninger_1,0.9873,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.025,B2,G6,Greninger_1,0.07388,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.008333,B3,G6,Greninger_1,0.1485,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.002778,B4,G6,Greninger_1,0.5141,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.0009259,B5,G6,Greninger_1,0.5279,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.0003086,B6,G6,Greninger_1,0.9257,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,0.0001029,B7,G6,Greninger_1,0.9907,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,3.429e-05,B8,G6,Greninger_1,0.9671,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,1.143e-05,B9,G6,Greninger_1,0.9122,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,1,3.81e-06,B10,G6,Greninger_1,1.03,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.025,C2,G6,Greninger_1,0.05154,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.008333,C3,G6,Greninger_1,0.166,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.002778,C4,G6,Greninger_1,0.6472,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.0009259,C5,G6,Greninger_1,0.8143,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.0003086,C6,G6,Greninger_1,0.9932,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,0.0001029,C7,G6,Greninger_1,0.9688,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,3.429e-05,C8,G6,Greninger_1,1.027,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,1.143e-05,C9,G6,Greninger_1,1.107,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger18,RSV A2,2,3.81e-06,C10,G6,Greninger_1,0.8751,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.025,F2,G7,Greninger_1,0.1428,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.008333,F3,G7,Greninger_1,0.4084,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.002778,F4,G7,Greninger_1,0.7686,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.0009259,F5,G7,Greninger_1,1.031,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.0003086,F6,G7,Greninger_1,0.9245,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,0.0001029,F7,G7,Greninger_1,1.253,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,3.429e-05,F8,G7,Greninger_1,0.7985,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,1.143e-05,F9,G7,Greninger_1,1.134,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,1,3.81e-06,F10,G7,Greninger_1,1.075,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.025,G2,G7,Greninger_1,0.1293,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.008333,G3,G7,Greninger_1,0.4806,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.002778,G4,G7,Greninger_1,0.7089,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.0009259,G5,G7,Greninger_1,0.8833,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.0003086,G6,G7,Greninger_1,0.9403,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,0.0001029,G7,G7,Greninger_1,1.068,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,3.429e-05,G8,G7,Greninger_1,0.8793,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,1.143e-05,G9,G7,Greninger_1,1.194,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger19,RSV A2,2,3.81e-06,G10,G7,Greninger_1,1.083,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.025,D2,G7,Greninger_1,0.0003109,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.008333,D3,G7,Greninger_1,0.0004267,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.002778,D4,G7,Greninger_1,0.0006396,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.0009259,D5,G7,Greninger_1,0.0009886,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.0003086,D6,G7,Greninger_1,0.02003,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,0.0001029,D7,G7,Greninger_1,0.08413,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,3.429e-05,D8,G7,Greninger_1,0.2941,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,1.143e-05,D9,G7,Greninger_1,0.6347,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,1,3.81e-06,D10,G7,Greninger_1,0.6672,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.025,E2,G7,Greninger_1,0.0008223,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.008333,E3,G7,Greninger_1,0.001794,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.002778,E4,G7,Greninger_1,0.002804,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.0009259,E5,G7,Greninger_1,0.004199,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.0003086,E6,G7,Greninger_1,0.01292,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,0.0001029,E7,G7,Greninger_1,0.07267,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,3.429e-05,E8,G7,Greninger_1,0.3633,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,1.143e-05,E9,G7,Greninger_1,0.6545,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger20,RSV A2,2,3.81e-06,E10,G7,Greninger_1,0.7888,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.025,B2,G7,Greninger_1,0.0002602,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.008333,B3,G7,Greninger_1,0.0002599,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.002778,B4,G7,Greninger_1,0.0007162,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.0009259,B5,G7,Greninger_1,0.01626,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.0003086,B6,G7,Greninger_1,0.1855,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,0.0001029,B7,G7,Greninger_1,0.4395,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,3.429e-05,B8,G7,Greninger_1,0.5676,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,1.143e-05,B9,G7,Greninger_1,0.8413,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,1,3.81e-06,B10,G7,Greninger_1,0.892,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.025,C2,G7,Greninger_1,0.0002072,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.008333,C3,G7,Greninger_1,0.0002811,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.002778,C4,G7,Greninger_1,0.0004789,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.0009259,C5,G7,Greninger_1,0.03333,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.0003086,C6,G7,Greninger_1,0.1466,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,0.0001029,C7,G7,Greninger_1,0.402,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,3.429e-05,C8,G7,Greninger_1,0.7748,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,1.143e-05,C9,G7,Greninger_1,0.9546,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger21,RSV A2,2,3.81e-06,C10,G7,Greninger_1,1.065,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.025,F2,G8,Greninger_1,0.0002237,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.008333,F3,G8,Greninger_1,0.00155,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.002778,F4,G8,Greninger_1,0.1763,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.0009259,F5,G8,Greninger_1,0.4787,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.0003086,F6,G8,Greninger_1,0.6217,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,0.0001029,F7,G8,Greninger_1,0.8124,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,3.429e-05,F8,G8,Greninger_1,0.8577,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,1.143e-05,F9,G8,Greninger_1,0.9063,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,1,3.81e-06,F10,G8,Greninger_1,0.9241,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.025,G2,G8,Greninger_1,0.000237,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.008333,G3,G8,Greninger_1,0.0008083,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.002778,G4,G8,Greninger_1,0.1094,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.0009259,G5,G8,Greninger_1,0.3816,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.0003086,G6,G8,Greninger_1,0.6498,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,0.0001029,G7,G8,Greninger_1,0.9703,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,3.429e-05,G8,G8,Greninger_1,0.9168,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,1.143e-05,G9,G8,Greninger_1,0.9784,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger22,RSV A2,2,3.81e-06,G10,G8,Greninger_1,1.135,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.025,D2,G8,Greninger_1,0.0002928,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.008333,D3,G8,Greninger_1,0.01333,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.002778,D4,G8,Greninger_1,0.02862,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.0009259,D5,G8,Greninger_1,0.2443,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.0003086,D6,G8,Greninger_1,0.4263,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,0.0001029,D7,G8,Greninger_1,0.6041,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,3.429e-05,D8,G8,Greninger_1,0.7176,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,1.143e-05,D9,G8,Greninger_1,0.7924,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,1,3.81e-06,D10,G8,Greninger_1,0.9185,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.025,E2,G8,Greninger_1,0.0003371,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.008333,E3,G8,Greninger_1,0.000831,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.002778,E4,G8,Greninger_1,0.01728,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.0009259,E5,G8,Greninger_1,0.2007,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.0003086,E6,G8,Greninger_1,0.4669,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,0.0001029,E7,G8,Greninger_1,0.5161,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,3.429e-05,E8,G8,Greninger_1,0.8512,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,1.143e-05,E9,G8,Greninger_1,0.9023,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger23,RSV A2,2,3.81e-06,E10,G8,Greninger_1,1.097,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.025,B2,G8,Greninger_1,0.0002908,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.008333,B3,G8,Greninger_1,0.0003624,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.002778,B4,G8,Greninger_1,0.00316,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.0009259,B5,G8,Greninger_1,0.106,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.0003086,B6,G8,Greninger_1,0.3302,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,0.0001029,B7,G8,Greninger_1,0.5863,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,3.429e-05,B8,G8,Greninger_1,0.6056,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,1.143e-05,B9,G8,Greninger_1,0.69,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,1,3.81e-06,B10,G8,Greninger_1,0.9282,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.025,C2,G8,Greninger_1,0.0003216,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.008333,C3,G8,Greninger_1,0.0004194,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.002778,C4,G8,Greninger_1,0.01082,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.0009259,C5,G8,Greninger_1,0.2009,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.0003086,C6,G8,Greninger_1,0.4243,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,0.0001029,C7,G8,Greninger_1,0.6019,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,3.429e-05,C8,G8,Greninger_1,0.5783,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,1.143e-05,C9,G8,Greninger_1,0.8086,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger24,RSV A2,2,3.81e-06,C10,G8,Greninger_1,0.9217,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.025,F2,G9,Greninger_1,0.001824,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.008333,F3,G9,Greninger_1,0.0006973,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.002778,F4,G9,Greninger_1,0.03473,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.0009259,F5,G9,Greninger_1,0.19,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.0003086,F6,G9,Greninger_1,0.5866,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,0.0001029,F7,G9,Greninger_1,0.5609,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,3.429e-05,F8,G9,Greninger_1,0.8571,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,1.143e-05,F9,G9,Greninger_1,0.841,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,1,3.81e-06,F10,G9,Greninger_1,1.036,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.025,G2,G9,Greninger_1,0.0002762,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.008333,G3,G9,Greninger_1,0.000599,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.002778,G4,G9,Greninger_1,0.001386,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.0009259,G5,G9,Greninger_1,0.1995,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.0003086,G6,G9,Greninger_1,0.4757,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,0.0001029,G7,G9,Greninger_1,0.714,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,3.429e-05,G8,G9,Greninger_1,0.8483,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,1.143e-05,G9,G9,Greninger_1,0.8877,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger25,RSV A2,2,3.81e-06,G10,G9,Greninger_1,1.019,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.025,D2,G9,Greninger_1,0.0005959,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.008333,D3,G9,Greninger_1,0.01599,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.002778,D4,G9,Greninger_1,0.1715,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.0009259,D5,G9,Greninger_1,0.43,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.0003086,D6,G9,Greninger_1,0.7137,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,0.0001029,D7,G9,Greninger_1,0.7897,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,3.429e-05,D8,G9,Greninger_1,1.026,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,1.143e-05,D9,G9,Greninger_1,0.8201,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,1,3.81e-06,D10,G9,Greninger_1,1.244,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.025,E2,G9,Greninger_1,0.0003096,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.008333,E3,G9,Greninger_1,0.02337,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.002778,E4,G9,Greninger_1,0.1455,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.0009259,E5,G9,Greninger_1,0.449,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.0003086,E6,G9,Greninger_1,0.5327,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,0.0001029,E7,G9,Greninger_1,0.8659,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,3.429e-05,E8,G9,Greninger_1,0.8579,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,1.143e-05,E9,G9,Greninger_1,0.7959,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger26,RSV A2,2,3.81e-06,E10,G9,Greninger_1,0.9118,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.025,B2,G9,Greninger_1,0.01544,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.008333,B3,G9,Greninger_1,0.1006,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.002778,B4,G9,Greninger_1,0.4331,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.0009259,B5,G9,Greninger_1,0.9013,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.0003086,B6,G9,Greninger_1,0.9785,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,0.0001029,B7,G9,Greninger_1,0.8692,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,3.429e-05,B8,G9,Greninger_1,0.8989,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,1.143e-05,B9,G9,Greninger_1,0.8708,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,1,3.81e-06,B10,G9,Greninger_1,0.9624,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.025,C2,G9,Greninger_1,0.01401,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.008333,C3,G9,Greninger_1,0.09906,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.002778,C4,G9,Greninger_1,0.4004,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.0009259,C5,G9,Greninger_1,0.7039,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.0003086,C6,G9,Greninger_1,0.7611,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,0.0001029,C7,G9,Greninger_1,0.7481,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,3.429e-05,C8,G9,Greninger_1,0.9447,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,1.143e-05,C9,G9,Greninger_1,0.9817,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger27,RSV A2,2,3.81e-06,C10,G9,Greninger_1,1.081,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.025,F2,G10,Greninger_1,0.03468,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.008333,F3,G10,Greninger_1,0.1126,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.002778,F4,G10,Greninger_1,0.4173,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.0009259,F5,G10,Greninger_1,0.5211,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.0003086,F6,G10,Greninger_1,0.6618,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,0.0001029,F7,G10,Greninger_1,0.7471,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,3.429e-05,F8,G10,Greninger_1,0.7632,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,1.143e-05,F9,G10,Greninger_1,0.9091,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,1,3.81e-06,F10,G10,Greninger_1,0.9514,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.025,G2,G10,Greninger_1,0.04449,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.008333,G3,G10,Greninger_1,0.2967,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.002778,G4,G10,Greninger_1,0.5287,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.0009259,G5,G10,Greninger_1,0.5774,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.0003086,G6,G10,Greninger_1,0.6804,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,0.0001029,G7,G10,Greninger_1,0.8485,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,3.429e-05,G8,G10,Greninger_1,0.7784,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,1.143e-05,G9,G10,Greninger_1,0.8126,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger28,RSV A2,2,3.81e-06,G10,G10,Greninger_1,0.8915,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.025,F2,G1,Greninger_1,0.0002132,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.008333,F3,G1,Greninger_1,0.0002375,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.002778,F4,G1,Greninger_1,0.000272,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.0009259,F5,G1,Greninger_1,0.0003499,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.0003086,F6,G1,Greninger_1,0.007094,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,0.0001029,F7,G1,Greninger_1,0.01746,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,3.429e-05,F8,G1,Greninger_1,0.3212,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,1.143e-05,F9,G1,Greninger_1,0.6001,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,1,3.81e-06,F10,G1,Greninger_1,0.7264,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.025,G2,G1,Greninger_1,0.0001239,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.008333,G3,G1,Greninger_1,0.0001766,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.002778,G4,G1,Greninger_1,0.0002018,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.0009259,G5,G1,Greninger_1,0.0003029,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.0003086,G6,G1,Greninger_1,0.0005806,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,0.0001029,G7,G1,Greninger_1,0.04051,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,3.429e-05,G8,G1,Greninger_1,0.1828,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,1.143e-05,G9,G1,Greninger_1,0.4615,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger1,RSV A2,2,3.81e-06,G10,G1,Greninger_1,0.804,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.025,D2,G1,Greninger_1,0.0002259,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.008333,D3,G1,Greninger_1,0.0002688,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.002778,D4,G1,Greninger_1,0.0003616,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.0009259,D5,G1,Greninger_1,0.01227,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.0003086,D6,G1,Greninger_1,0.07551,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,0.0001029,D7,G1,Greninger_1,0.2782,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,3.429e-05,D8,G1,Greninger_1,0.4452,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,1.143e-05,D9,G1,Greninger_1,0.7918,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,1,3.81e-06,D10,G1,Greninger_1,0.7845,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.025,E2,G1,Greninger_1,0.0004573,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.008333,E3,G1,Greninger_1,0.0002433,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.002778,E4,G1,Greninger_1,0.0003478,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.0009259,E5,G1,Greninger_1,0.0006669,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.0003086,E6,G1,Greninger_1,0.05088,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,0.0001029,E7,G1,Greninger_1,0.1883,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,3.429e-05,E8,G1,Greninger_1,0.4516,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,1.143e-05,E9,G1,Greninger_1,0.7616,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger2,RSV A2,2,3.81e-06,E10,G1,Greninger_1,0.8048,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.025,B2,G1,Greninger_1,0.0002067,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.008333,B3,G1,Greninger_1,0.0002479,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.002778,B4,G1,Greninger_1,0.0007857,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.0009259,B5,G1,Greninger_1,0.09799,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.0003086,B6,G1,Greninger_1,0.4757,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,0.0001029,B7,G1,Greninger_1,0.6965,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,3.429e-05,B8,G1,Greninger_1,0.8185,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,1.143e-05,B9,G1,Greninger_1,0.8827,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,1,3.81e-06,B10,G1,Greninger_1,0.955,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.025,C2,G1,Greninger_1,0.000268,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.008333,C3,G1,Greninger_1,0.01708,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.002778,C4,G1,Greninger_1,0.0006297,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.0009259,C5,G1,Greninger_1,0.03985,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.0003086,C6,G1,Greninger_1,0.5433,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,0.0001029,C7,G1,Greninger_1,0.6666,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,3.429e-05,C8,G1,Greninger_1,0.7396,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,1.143e-05,C9,G1,Greninger_1,0.9847,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger3,RSV A2,2,3.81e-06,C10,G1,Greninger_1,0.9743,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.025,F2,G2,Greninger_1,0.0002294,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.008333,F3,G2,Greninger_1,0.0005253,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.002778,F4,G2,Greninger_1,0.0008782,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.0009259,F5,G2,Greninger_1,0.002586,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.0003086,F6,G2,Greninger_1,0.01788,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,0.0001029,F7,G2,Greninger_1,0.2032,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,3.429e-05,F8,G2,Greninger_1,0.4841,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,1.143e-05,F9,G2,Greninger_1,0.6412,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,1,3.81e-06,F10,G2,Greninger_1,0.8443,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.025,G2,G2,Greninger_1,0.0001794,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.008333,G3,G2,Greninger_1,0.000355,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.002778,G4,G2,Greninger_1,0.0003847,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.0009259,G5,G2,Greninger_1,0.01331,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.0003086,G6,G2,Greninger_1,0.005095,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,0.0001029,G7,G2,Greninger_1,0.1378,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,3.429e-05,G8,G2,Greninger_1,0.421,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,1.143e-05,G9,G2,Greninger_1,0.7122,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger4,RSV A2,2,3.81e-06,G10,G2,Greninger_1,0.8394,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.025,D2,G2,Greninger_1,0.0004272,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.008333,D3,G2,Greninger_1,0.008297,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.002778,D4,G2,Greninger_1,0.1827,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.0009259,D5,G2,Greninger_1,0.5725,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.0003086,D6,G2,Greninger_1,0.8402,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,0.0001029,D7,G2,Greninger_1,0.9267,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,3.429e-05,D8,G2,Greninger_1,0.9065,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,1.143e-05,D9,G2,Greninger_1,0.8734,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,1,3.81e-06,D10,G2,Greninger_1,1.166,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.025,E2,G2,Greninger_1,0.0003535,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.008333,E3,G2,Greninger_1,0.05341,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.002778,E4,G2,Greninger_1,0.1407,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.0009259,E5,G2,Greninger_1,0.4786,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.0003086,E6,G2,Greninger_1,0.7935,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,0.0001029,E7,G2,Greninger_1,0.9404,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,3.429e-05,E8,G2,Greninger_1,0.8685,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,1.143e-05,E9,G2,Greninger_1,1.094,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger5,RSV A2,2,3.81e-06,E10,G2,Greninger_1,0.812,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.025,B2,G2,Greninger_1,0.0002046,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.008333,B3,G2,Greninger_1,0.0003405,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.002778,B4,G2,Greninger_1,0.0005532,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.0009259,B5,G2,Greninger_1,0.05019,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.0003086,B6,G2,Greninger_1,0.1628,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,0.0001029,B7,G2,Greninger_1,0.3943,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,3.429e-05,B8,G2,Greninger_1,0.701,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,1.143e-05,B9,G2,Greninger_1,0.7977,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,1,3.81e-06,B10,G2,Greninger_1,1.003,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.025,C2,G2,Greninger_1,0.0002615,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.008333,C3,G2,Greninger_1,0.0004988,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.002778,C4,G2,Greninger_1,0.001298,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.0009259,C5,G2,Greninger_1,0.04889,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.0003086,C6,G2,Greninger_1,0.2388,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,0.0001029,C7,G2,Greninger_1,0.4129,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,3.429e-05,C8,G2,Greninger_1,0.6711,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,1.143e-05,C9,G2,Greninger_1,0.921,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger6,RSV A2,2,3.81e-06,C10,G2,Greninger_1,0.9146,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.025,F2,G3,Greninger_1,0.0002014,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.008333,F3,G3,Greninger_1,0.01061,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.002778,F4,G3,Greninger_1,0.05534,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.0009259,F5,G3,Greninger_1,0.169,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.0003086,F6,G3,Greninger_1,0.4701,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,0.0001029,F7,G3,Greninger_1,0.9204,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,3.429e-05,F8,G3,Greninger_1,0.881,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,1.143e-05,F9,G3,Greninger_1,1.01,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,1,3.81e-06,F10,G3,Greninger_1,1.142,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.025,G2,G3,Greninger_1,0.0001886,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.008333,G3,G3,Greninger_1,0.000515,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.002778,G4,G3,Greninger_1,0.07212,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.0009259,G5,G3,Greninger_1,0.1815,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.0003086,G6,G3,Greninger_1,0.6542,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,0.0001029,G7,G3,Greninger_1,0.8448,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,3.429e-05,G8,G3,Greninger_1,1.111,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,1.143e-05,G9,G3,Greninger_1,1.01,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger7,RSV A2,2,3.81e-06,G10,G3,Greninger_1,0.968,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.025,D2,G3,Greninger_1,0.000366,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.008333,D3,G3,Greninger_1,0.000936,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.002778,D4,G3,Greninger_1,0.03184,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.0009259,D5,G3,Greninger_1,0.1665,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.0003086,D6,G3,Greninger_1,0.5874,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,0.0001029,D7,G3,Greninger_1,0.8071,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,3.429e-05,D8,G3,Greninger_1,1.024,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,1.143e-05,D9,G3,Greninger_1,0.8424,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,1,3.81e-06,D10,G3,Greninger_1,0.9918,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.025,E2,G3,Greninger_1,0.0002345,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.008333,E3,G3,Greninger_1,0.0005182,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.002778,E4,G3,Greninger_1,0.00703,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.0009259,E5,G3,Greninger_1,0.1895,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.0003086,E6,G3,Greninger_1,0.484,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,0.0001029,E7,G3,Greninger_1,0.8325,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,3.429e-05,E8,G3,Greninger_1,0.9762,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,1.143e-05,E9,G3,Greninger_1,0.8629,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger8,RSV A2,2,3.81e-06,E10,G3,Greninger_1,0.9943,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.025,B2,G3,Greninger_1,0.0001759,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.008333,B3,G3,Greninger_1,0.0001908,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.002778,B4,G3,Greninger_1,0.0003644,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.0009259,B5,G3,Greninger_1,0.0004899,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.0003086,B6,G3,Greninger_1,0.02713,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,0.0001029,B7,G3,Greninger_1,0.119,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,3.429e-05,B8,G3,Greninger_1,0.4635,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,1.143e-05,B9,G3,Greninger_1,0.6158,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,1,3.81e-06,B10,G3,Greninger_1,1.02,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.025,C2,G3,Greninger_1,0.0002512,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.008333,C3,G3,Greninger_1,0.0003417,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.002778,C4,G3,Greninger_1,0.0005966,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.0009259,C5,G3,Greninger_1,0.001372,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.0003086,C6,G3,Greninger_1,0.0138,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,0.0001029,C7,G3,Greninger_1,0.1542,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,3.429e-05,C8,G3,Greninger_1,0.3822,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,1.143e-05,C9,G3,Greninger_1,0.6783,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger9,RSV A2,2,3.81e-06,C10,G3,Greninger_1,1.008,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.025,F2,G4,Greninger_1,0.0002509,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.008333,F3,G4,Greninger_1,0.00029,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.002778,F4,G4,Greninger_1,0.005516,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.0009259,F5,G4,Greninger_1,0.04776,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.0003086,F6,G4,Greninger_1,0.2629,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,0.0001029,F7,G4,Greninger_1,0.5272,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,3.429e-05,F8,G4,Greninger_1,0.7907,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,1.143e-05,F9,G4,Greninger_1,0.8348,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,1,3.81e-06,F10,G4,Greninger_1,1.01,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.025,G2,G4,Greninger_1,0.0001806,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.008333,G3,G4,Greninger_1,0.0002568,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.002778,G4,G4,Greninger_1,0.002187,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.0009259,G5,G4,Greninger_1,0.06165,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.0003086,G6,G4,Greninger_1,0.2024,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,0.0001029,G7,G4,Greninger_1,0.6442,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,3.429e-05,G8,G4,Greninger_1,0.7302,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,1.143e-05,G9,G4,Greninger_1,0.6775,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger10,RSV A2,2,3.81e-06,G10,G4,Greninger_1,1.014,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.025,D2,G4,Greninger_1,0.0002817,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.008333,D3,G4,Greninger_1,0.0005344,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.002778,D4,G4,Greninger_1,0.04042,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.0009259,D5,G4,Greninger_1,0.1096,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.0003086,D6,G4,Greninger_1,0.2768,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,0.0001029,D7,G4,Greninger_1,0.6116,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,3.429e-05,D8,G4,Greninger_1,0.6518,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,1.143e-05,D9,G4,Greninger_1,0.9355,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,1,3.81e-06,D10,G4,Greninger_1,0.8994,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.025,E2,G4,Greninger_1,0.0002375,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.008333,E3,G4,Greninger_1,0.0002864,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.002778,E4,G4,Greninger_1,0.005447,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.0009259,E5,G4,Greninger_1,0.1861,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.0003086,E6,G4,Greninger_1,0.3675,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,0.0001029,E7,G4,Greninger_1,0.615,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,3.429e-05,E8,G4,Greninger_1,0.751,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,1.143e-05,E9,G4,Greninger_1,0.9274,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger11,RSV A2,2,3.81e-06,E10,G4,Greninger_1,1.143,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.025,B2,G4,Greninger_1,0.0002706,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.008333,B3,G4,Greninger_1,0.007466,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.002778,B4,G4,Greninger_1,0.03105,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.0009259,B5,G4,Greninger_1,0.3214,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.0003086,B6,G4,Greninger_1,0.5176,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,0.0001029,B7,G4,Greninger_1,0.5705,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,3.429e-05,B8,G4,Greninger_1,0.8487,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,1.143e-05,B9,G4,Greninger_1,0.8598,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,1,3.81e-06,B10,G4,Greninger_1,0.981,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.025,C2,G4,Greninger_1,0.000308,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.008333,C3,G4,Greninger_1,0.01697,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.002778,C4,G4,Greninger_1,0.04142,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.0009259,C5,G4,Greninger_1,0.3519,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.0003086,C6,G4,Greninger_1,0.5891,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,0.0001029,C7,G4,Greninger_1,0.7178,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,3.429e-05,C8,G4,Greninger_1,0.7811,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,1.143e-05,C9,G4,Greninger_1,0.8598,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger12,RSV A2,2,3.81e-06,C10,G4,Greninger_1,0.8311,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.025,F2,G5,Greninger_1,0.001455,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.008333,F3,G5,Greninger_1,0.003439,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.002778,F4,G5,Greninger_1,0.06589,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.0009259,F5,G5,Greninger_1,0.1887,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.0003086,F6,G5,Greninger_1,0.6923,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,0.0001029,F7,G5,Greninger_1,0.6474,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,3.429e-05,F8,G5,Greninger_1,0.8919,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,1.143e-05,F9,G5,Greninger_1,0.7713,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,1,3.81e-06,F10,G5,Greninger_1,0.7703,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.025,G2,G5,Greninger_1,0.0003426,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.008333,G3,G5,Greninger_1,0.000579,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.002778,G4,G5,Greninger_1,0.03133,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.0009259,G5,G5,Greninger_1,0.2419,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.0003086,G6,G5,Greninger_1,0.6043,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,0.0001029,G7,G5,Greninger_1,0.8773,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,3.429e-05,G8,G5,Greninger_1,0.8066,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,1.143e-05,G9,G5,Greninger_1,1.002,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger13,RSV A2,2,3.81e-06,G10,G5,Greninger_1,0.8493,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.025,D2,G5,Greninger_1,0.0003779,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.008333,D3,G5,Greninger_1,0.01096,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.002778,D4,G5,Greninger_1,0.052,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.0009259,D5,G5,Greninger_1,0.2786,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.0003086,D6,G5,Greninger_1,0.4946,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,0.0001029,D7,G5,Greninger_1,0.733,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,3.429e-05,D8,G5,Greninger_1,0.7236,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,1.143e-05,D9,G5,Greninger_1,0.9108,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,1,3.81e-06,D10,G5,Greninger_1,0.7815,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.025,E2,G5,Greninger_1,0.000299,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.008333,E3,G5,Greninger_1,0.0007792,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.002778,E4,G5,Greninger_1,0.06004,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.0009259,E5,G5,Greninger_1,0.4087,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.0003086,E6,G5,Greninger_1,0.5944,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,0.0001029,E7,G5,Greninger_1,0.8673,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,3.429e-05,E8,G5,Greninger_1,0.7294,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,1.143e-05,E9,G5,Greninger_1,0.8001,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger14,RSV A2,2,3.81e-06,E10,G5,Greninger_1,0.9949,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.025,B2,G5,Greninger_1,0.0004456,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.008333,B3,G5,Greninger_1,0.01219,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.002778,B4,G5,Greninger_1,0.1467,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.0009259,B5,G5,Greninger_1,0.4246,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.0003086,B6,G5,Greninger_1,0.5539,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,0.0001029,B7,G5,Greninger_1,0.771,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,3.429e-05,B8,G5,Greninger_1,0.6596,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,1.143e-05,B9,G5,Greninger_1,1.03,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,1,3.81e-06,B10,G5,Greninger_1,0.9476,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.025,C2,G5,Greninger_1,0.0004275,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.008333,C3,G5,Greninger_1,0.001744,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.002778,C4,G5,Greninger_1,0.1079,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.0009259,C5,G5,Greninger_1,0.3695,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.0003086,C6,G5,Greninger_1,0.613,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,0.0001029,C7,G5,Greninger_1,0.6699,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,3.429e-05,C8,G5,Greninger_1,0.7517,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,1.143e-05,C9,G5,Greninger_1,0.5971,24.10.31_RSVNeut_ControlSera_Greninger
+Greninger15,RSV A2,2,3.81e-06,C10,G5,Greninger_1,0.8251,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,1000,F2,Cell TIM1 B2024 ,Cell_Line_1,0.0006073,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,250,F3,Cell TIM1 B2024 ,Cell_Line_1,0.001062,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,62.5,F4,Cell TIM1 B2024 ,Cell_Line_1,0.001052,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,15.62,F5,Cell TIM1 B2024 ,Cell_Line_1,0.002596,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,3.906,F6,Cell TIM1 B2024 ,Cell_Line_1,0.2375,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,0.9766,F7,Cell TIM1 B2024 ,Cell_Line_1,0.689,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,0.2441,F8,Cell TIM1 B2024 ,Cell_Line_1,0.8744,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,0.06104,F9,Cell TIM1 B2024 ,Cell_Line_1,1.003,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,1,0.01526,F10,Cell TIM1 B2024 ,Cell_Line_1,1.047,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,1000,G2,Cell TIM1 B2024 ,Cell_Line_1,0.00214,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,250,G3,Cell TIM1 B2024 ,Cell_Line_1,0.003619,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,62.5,G4,Cell TIM1 B2024 ,Cell_Line_1,0.004833,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,15.62,G5,Cell TIM1 B2024 ,Cell_Line_1,0.006051,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,3.906,G6,Cell TIM1 B2024 ,Cell_Line_1,0.2575,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,0.9766,G7,Cell TIM1 B2024 ,Cell_Line_1,0.5486,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,0.2441,G8,Cell TIM1 B2024 ,Cell_Line_1,0.7592,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,0.06104,G9,Cell TIM1 B2024 ,Cell_Line_1,1.051,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV B 2024,2,0.01526,G10,Cell TIM1 B2024 ,Cell_Line_1,1.159,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.025,D2,Cell TIM1 B2024 ,Cell_Line_1,0.000789,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.008333,D3,Cell TIM1 B2024 ,Cell_Line_1,0.001147,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.002778,D4,Cell TIM1 B2024 ,Cell_Line_1,0.02046,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.0009259,D5,Cell TIM1 B2024 ,Cell_Line_1,0.152,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.0003086,D6,Cell TIM1 B2024 ,Cell_Line_1,0.4253,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,0.0001029,D7,Cell TIM1 B2024 ,Cell_Line_1,0.6578,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,3.429e-05,D8,Cell TIM1 B2024 ,Cell_Line_1,0.7633,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,1.143e-05,D9,Cell TIM1 B2024 ,Cell_Line_1,1.026,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,1,3.81e-06,D10,Cell TIM1 B2024 ,Cell_Line_1,0.9687,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.025,E2,Cell TIM1 B2024 ,Cell_Line_1,0.0007139,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.008333,E3,Cell TIM1 B2024 ,Cell_Line_1,0.00288,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.002778,E4,Cell TIM1 B2024 ,Cell_Line_1,0.03219,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.0009259,E5,Cell TIM1 B2024 ,Cell_Line_1,0.1672,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.0003086,E6,Cell TIM1 B2024 ,Cell_Line_1,0.4417,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,0.0001029,E7,Cell TIM1 B2024 ,Cell_Line_1,0.757,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,3.429e-05,E8,Cell TIM1 B2024 ,Cell_Line_1,0.8168,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,1.143e-05,E9,Cell TIM1 B2024 ,Cell_Line_1,0.9115,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV B 2024,2,3.81e-06,E10,Cell TIM1 B2024 ,Cell_Line_1,0.9888,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.025,B2,Cell TIM1 B2024 ,Cell_Line_1,0.000666,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.008333,B3,Cell TIM1 B2024 ,Cell_Line_1,0.001,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.002778,B4,Cell TIM1 B2024 ,Cell_Line_1,0.002216,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.0009259,B5,Cell TIM1 B2024 ,Cell_Line_1,0.1056,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.0003086,B6,Cell TIM1 B2024 ,Cell_Line_1,0.3189,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,0.0001029,B7,Cell TIM1 B2024 ,Cell_Line_1,0.5044,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,3.429e-05,B8,Cell TIM1 B2024 ,Cell_Line_1,0.708,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,1.143e-05,B9,Cell TIM1 B2024 ,Cell_Line_1,0.8562,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,1,3.81e-06,B10,Cell TIM1 B2024 ,Cell_Line_1,0.8621,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.025,C2,Cell TIM1 B2024 ,Cell_Line_1,0.0007191,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.008333,C3,Cell TIM1 B2024 ,Cell_Line_1,0.0007314,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.002778,C4,Cell TIM1 B2024 ,Cell_Line_1,0.002,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.0009259,C5,Cell TIM1 B2024 ,Cell_Line_1,0.04825,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.0003086,C6,Cell TIM1 B2024 ,Cell_Line_1,0.305,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,0.0001029,C7,Cell TIM1 B2024 ,Cell_Line_1,0.5613,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,3.429e-05,C8,Cell TIM1 B2024 ,Cell_Line_1,0.874,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,1.143e-05,C9,Cell TIM1 B2024 ,Cell_Line_1,0.8094,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV B 2024,2,3.81e-06,C10,Cell TIM1 B2024 ,Cell_Line_1,0.8153,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,1000,F2,Cell TIM1 A2020,Cell_Line_1,0.0002501,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,250,F3,Cell TIM1 A2020,Cell_Line_1,0.0006815,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,62.5,F4,Cell TIM1 A2020,Cell_Line_1,0.0005982,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,15.62,F5,Cell TIM1 A2020,Cell_Line_1,0.02755,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,3.906,F6,Cell TIM1 A2020,Cell_Line_1,0.753,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,0.9766,F7,Cell TIM1 A2020,Cell_Line_1,0.682,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,0.2441,F8,Cell TIM1 A2020,Cell_Line_1,0.8745,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,0.06104,F9,Cell TIM1 A2020,Cell_Line_1,0.8434,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,1,0.01526,F10,Cell TIM1 A2020,Cell_Line_1,0.914,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,1000,G2,Cell TIM1 A2020,Cell_Line_1,0.000232,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,250,G3,Cell TIM1 A2020,Cell_Line_1,0.000285,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,62.5,G4,Cell TIM1 A2020,Cell_Line_1,0.001266,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,15.62,G5,Cell TIM1 A2020,Cell_Line_1,0.03154,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,3.906,G6,Cell TIM1 A2020,Cell_Line_1,0.7688,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,0.9766,G7,Cell TIM1 A2020,Cell_Line_1,0.8767,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,0.2441,G8,Cell TIM1 A2020,Cell_Line_1,0.8925,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,0.06104,G9,Cell TIM1 A2020,Cell_Line_1,1.022,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV A 2020,2,0.01526,G10,Cell TIM1 A2020,Cell_Line_1,1.143,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.025,D2,Cell TIM1 A2020,Cell_Line_1,0.0003502,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.008333,D3,Cell TIM1 A2020,Cell_Line_1,0.002024,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.002778,D4,Cell TIM1 A2020,Cell_Line_1,0.02298,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.0009259,D5,Cell TIM1 A2020,Cell_Line_1,0.162,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.0003086,D6,Cell TIM1 A2020,Cell_Line_1,0.4706,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,0.0001029,D7,Cell TIM1 A2020,Cell_Line_1,0.5153,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,3.429e-05,D8,Cell TIM1 A2020,Cell_Line_1,0.8149,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,1.143e-05,D9,Cell TIM1 A2020,Cell_Line_1,1.043,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,1,3.81e-06,D10,Cell TIM1 A2020,Cell_Line_1,1.023,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.025,E2,Cell TIM1 A2020,Cell_Line_1,0.000375,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.008333,E3,Cell TIM1 A2020,Cell_Line_1,0.0003845,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.002778,E4,Cell TIM1 A2020,Cell_Line_1,0.0008714,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.0009259,E5,Cell TIM1 A2020,Cell_Line_1,0.1631,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.0003086,E6,Cell TIM1 A2020,Cell_Line_1,0.5061,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,0.0001029,E7,Cell TIM1 A2020,Cell_Line_1,0.7162,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,3.429e-05,E8,Cell TIM1 A2020,Cell_Line_1,0.7723,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,1.143e-05,E9,Cell TIM1 A2020,Cell_Line_1,1.004,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV A 2020,2,3.81e-06,E10,Cell TIM1 A2020,Cell_Line_1,1.082,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.025,B2,Cell TIM1 A2020,Cell_Line_1,0.0002312,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.008333,B3,Cell TIM1 A2020,Cell_Line_1,0.000308,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.002778,B4,Cell TIM1 A2020,Cell_Line_1,0.003734,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.0009259,B5,Cell TIM1 A2020,Cell_Line_1,0.02673,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.0003086,B6,Cell TIM1 A2020,Cell_Line_1,0.24,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,0.0001029,B7,Cell TIM1 A2020,Cell_Line_1,0.3738,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,3.429e-05,B8,Cell TIM1 A2020,Cell_Line_1,0.6548,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,1.143e-05,B9,Cell TIM1 A2020,Cell_Line_1,0.8732,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,1,3.81e-06,B10,Cell TIM1 A2020,Cell_Line_1,0.8627,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.025,C2,Cell TIM1 A2020,Cell_Line_1,0.0002416,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.008333,C3,Cell TIM1 A2020,Cell_Line_1,0.0003261,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.002778,C4,Cell TIM1 A2020,Cell_Line_1,0.0006991,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.0009259,C5,Cell TIM1 A2020,Cell_Line_1,0.01682,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.0003086,C6,Cell TIM1 A2020,Cell_Line_1,0.2088,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,0.0001029,C7,Cell TIM1 A2020,Cell_Line_1,0.4601,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,3.429e-05,C8,Cell TIM1 A2020,Cell_Line_1,0.66,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,1.143e-05,C9,Cell TIM1 A2020,Cell_Line_1,0.9052,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV A 2020,2,3.81e-06,C10,Cell TIM1 A2020,Cell_Line_1,0.8898,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,1000,F2,Cell TIM1 Long,Cell_Line_1,2.337e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,250,F3,Cell TIM1 Long,Cell_Line_1,7.548e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,62.5,F4,Cell TIM1 Long,Cell_Line_1,9.831e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,15.62,F5,Cell TIM1 Long,Cell_Line_1,0.0009293,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,3.906,F6,Cell TIM1 Long,Cell_Line_1,0.1388,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,0.9766,F7,Cell TIM1 Long,Cell_Line_1,0.5958,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,0.2441,F8,Cell TIM1 Long,Cell_Line_1,0.8652,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,0.06104,F9,Cell TIM1 Long,Cell_Line_1,0.95,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,1,0.01526,F10,Cell TIM1 Long,Cell_Line_1,1.115,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,1000,G2,Cell TIM1 Long,Cell_Line_1,0.0001091,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,250,G3,Cell TIM1 Long,Cell_Line_1,0.0001398,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,62.5,G4,Cell TIM1 Long,Cell_Line_1,0.0001232,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,15.62,G5,Cell TIM1 Long,Cell_Line_1,0.0008887,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,3.906,G6,Cell TIM1 Long,Cell_Line_1,0.236,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,0.9766,G7,Cell TIM1 Long,Cell_Line_1,0.9352,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,0.2441,G8,Cell TIM1 Long,Cell_Line_1,0.8734,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,0.06104,G9,Cell TIM1 Long,Cell_Line_1,1.009,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_TIM1,RSV Long,2,0.01526,G10,Cell TIM1 Long,Cell_Line_1,0.9139,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.025,D2,Cell TIM1 Long,Cell_Line_1,0.0001002,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.008333,D3,Cell TIM1 Long,Cell_Line_1,8.577e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.002778,D4,Cell TIM1 Long,Cell_Line_1,0.0001281,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.0009259,D5,Cell TIM1 Long,Cell_Line_1,0.002384,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.0003086,D6,Cell TIM1 Long,Cell_Line_1,0.1684,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,0.0001029,D7,Cell TIM1 Long,Cell_Line_1,0.3612,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,3.429e-05,D8,Cell TIM1 Long,Cell_Line_1,0.8651,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,1.143e-05,D9,Cell TIM1 Long,Cell_Line_1,0.8733,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,1,3.81e-06,D10,Cell TIM1 Long,Cell_Line_1,0.9484,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.025,E2,Cell TIM1 Long,Cell_Line_1,7.607e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.008333,E3,Cell TIM1 Long,Cell_Line_1,5.567e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.002778,E4,Cell TIM1 Long,Cell_Line_1,0.0002622,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.0009259,E5,Cell TIM1 Long,Cell_Line_1,0.007265,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.0003086,E6,Cell TIM1 Long,Cell_Line_1,0.2304,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,0.0001029,E7,Cell TIM1 Long,Cell_Line_1,0.4412,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,3.429e-05,E8,Cell TIM1 Long,Cell_Line_1,0.936,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,1.143e-05,E9,Cell TIM1 Long,Cell_Line_1,1.213,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_TIM1,RSV Long,2,3.81e-06,E10,Cell TIM1 Long,Cell_Line_1,0.8595,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.025,B2,Cell TIM1 Long,Cell_Line_1,6.323e-05,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.008333,B3,Cell TIM1 Long,Cell_Line_1,6.581e-05,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.002778,B4,Cell TIM1 Long,Cell_Line_1,0.0001462,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.0009259,B5,Cell TIM1 Long,Cell_Line_1,0.0003005,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.0003086,B6,Cell TIM1 Long,Cell_Line_1,0.003368,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,0.0001029,B7,Cell TIM1 Long,Cell_Line_1,0.1468,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,3.429e-05,B8,Cell TIM1 Long,Cell_Line_1,0.5177,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,1.143e-05,B9,Cell TIM1 Long,Cell_Line_1,0.7373,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,1,3.81e-06,B10,Cell TIM1 Long,Cell_Line_1,0.9126,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.025,C2,Cell TIM1 Long,Cell_Line_1,0.0001428,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.008333,C3,Cell TIM1 Long,Cell_Line_1,0.0001351,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.002778,C4,Cell TIM1 Long,Cell_Line_1,8.525e-05,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.0009259,C5,Cell TIM1 Long,Cell_Line_1,0.0004722,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.0003086,C6,Cell TIM1 Long,Cell_Line_1,0.00343,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,0.0001029,C7,Cell TIM1 Long,Cell_Line_1,0.06817,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,3.429e-05,C8,Cell TIM1 Long,Cell_Line_1,0.2947,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,1.143e-05,C9,Cell TIM1 Long,Cell_Line_1,0.654,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_TIM1,RSV Long,2,3.81e-06,C10,Cell TIM1 Long,Cell_Line_1,0.7056,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,1000,F2,Cells 293T B2024,Cell_Line_1,0.03769,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,250,F3,Cells 293T B2024,Cell_Line_1,0.01207,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,62.5,F4,Cells 293T B2024,Cell_Line_1,0.01291,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,15.62,F5,Cells 293T B2024,Cell_Line_1,0.01339,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,3.906,F6,Cells 293T B2024,Cell_Line_1,0.03663,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,0.9766,F7,Cells 293T B2024,Cell_Line_1,0.9734,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,0.2441,F8,Cells 293T B2024,Cell_Line_1,1.03,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,0.06104,F9,Cells 293T B2024,Cell_Line_1,1.215,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,1,0.01526,F10,Cells 293T B2024,Cell_Line_1,1.046,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,1000,G2,Cells 293T B2024,Cell_Line_1,0.009712,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,250,G3,Cells 293T B2024,Cell_Line_1,0.01229,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,62.5,G4,Cells 293T B2024,Cell_Line_1,0.0207,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,15.62,G5,Cells 293T B2024,Cell_Line_1,0.01106,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,3.906,G6,Cells 293T B2024,Cell_Line_1,0.1157,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,0.9766,G7,Cells 293T B2024,Cell_Line_1,0.682,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,0.2441,G8,Cells 293T B2024,Cell_Line_1,1.099,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,0.06104,G9,Cells 293T B2024,Cell_Line_1,1.481,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV B 2024,2,0.01526,G10,Cells 293T B2024,Cell_Line_1,1.172,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.025,D2,Cells 293T B2024,Cell_Line_1,0.01197,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.008333,D3,Cells 293T B2024,Cell_Line_1,0.02536,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.002778,D4,Cells 293T B2024,Cell_Line_1,0.01152,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.0009259,D5,Cells 293T B2024,Cell_Line_1,0.3252,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.0003086,D6,Cells 293T B2024,Cell_Line_1,0.6254,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,0.0001029,D7,Cells 293T B2024,Cell_Line_1,0.7618,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,3.429e-05,D8,Cells 293T B2024,Cell_Line_1,1.08,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,1.143e-05,D9,Cells 293T B2024,Cell_Line_1,0.935,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,1,3.81e-06,D10,Cells 293T B2024,Cell_Line_1,1.373,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.025,E2,Cells 293T B2024,Cell_Line_1,0.01202,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.008333,E3,Cells 293T B2024,Cell_Line_1,0.01176,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.002778,E4,Cells 293T B2024,Cell_Line_1,0.009749,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.0009259,E5,Cells 293T B2024,Cell_Line_1,0.1594,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.0003086,E6,Cells 293T B2024,Cell_Line_1,0.4147,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,0.0001029,E7,Cells 293T B2024,Cell_Line_1,0.8936,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,3.429e-05,E8,Cells 293T B2024,Cell_Line_1,1.18,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,1.143e-05,E9,Cells 293T B2024,Cell_Line_1,1.123,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV B 2024,2,3.81e-06,E10,Cells 293T B2024,Cell_Line_1,1.34,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.025,B2,Cells 293T B2024,Cell_Line_1,0.008479,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.008333,B3,Cells 293T B2024,Cell_Line_1,0.008863,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.002778,B4,Cells 293T B2024,Cell_Line_1,0.0103,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.0009259,B5,Cells 293T B2024,Cell_Line_1,0.1536,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.0003086,B6,Cells 293T B2024,Cell_Line_1,0.5465,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,0.0001029,B7,Cells 293T B2024,Cell_Line_1,0.8787,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,3.429e-05,B8,Cells 293T B2024,Cell_Line_1,0.6966,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,1.143e-05,B9,Cells 293T B2024,Cell_Line_1,0.8915,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,1,3.81e-06,B10,Cells 293T B2024,Cell_Line_1,0.946,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.025,C2,Cells 293T B2024,Cell_Line_1,0.009791,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.008333,C3,Cells 293T B2024,Cell_Line_1,0.01004,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.002778,C4,Cells 293T B2024,Cell_Line_1,0.01043,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.0009259,C5,Cells 293T B2024,Cell_Line_1,0.1538,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.0003086,C6,Cells 293T B2024,Cell_Line_1,0.2788,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,0.0001029,C7,Cells 293T B2024,Cell_Line_1,0.693,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,3.429e-05,C8,Cells 293T B2024,Cell_Line_1,0.7258,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,1.143e-05,C9,Cells 293T B2024,Cell_Line_1,1.001,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV B 2024,2,3.81e-06,C10,Cells 293T B2024,Cell_Line_1,1.07,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,1000,F2,Cells 293T A2020,Cell_Line_1,0.004104,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,250,F3,Cells 293T A2020,Cell_Line_1,0.001967,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,62.5,F4,Cells 293T A2020,Cell_Line_1,0.002037,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,15.62,F5,Cells 293T A2020,Cell_Line_1,0.004768,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,3.906,F6,Cells 293T A2020,Cell_Line_1,0.2504,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,0.9766,F7,Cells 293T A2020,Cell_Line_1,0.7152,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,0.2441,F8,Cells 293T A2020,Cell_Line_1,0.91,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,0.06104,F9,Cells 293T A2020,Cell_Line_1,1.021,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,1,0.01526,F10,Cells 293T A2020,Cell_Line_1,1.145,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,1000,G2,Cells 293T A2020,Cell_Line_1,0.001852,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,250,G3,Cells 293T A2020,Cell_Line_1,0.002111,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,62.5,G4,Cells 293T A2020,Cell_Line_1,0.003442,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,15.62,G5,Cells 293T A2020,Cell_Line_1,0.003138,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,3.906,G6,Cells 293T A2020,Cell_Line_1,0.3217,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,0.9766,G7,Cells 293T A2020,Cell_Line_1,0.6996,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,0.2441,G8,Cells 293T A2020,Cell_Line_1,0.8651,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,0.06104,G9,Cells 293T A2020,Cell_Line_1,1.2,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV A 2020,2,0.01526,G10,Cells 293T A2020,Cell_Line_1,0.9163,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.025,D2,Cells 293T A2020,Cell_Line_1,0.002301,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.008333,D3,Cells 293T A2020,Cell_Line_1,0.002236,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.002778,D4,Cells 293T A2020,Cell_Line_1,0.02118,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.0009259,D5,Cells 293T A2020,Cell_Line_1,0.1108,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.0003086,D6,Cells 293T A2020,Cell_Line_1,0.4446,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,0.0001029,D7,Cells 293T A2020,Cell_Line_1,0.7679,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,3.429e-05,D8,Cells 293T A2020,Cell_Line_1,0.8263,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,1.143e-05,D9,Cells 293T A2020,Cell_Line_1,0.8549,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,1,3.81e-06,D10,Cells 293T A2020,Cell_Line_1,0.783,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.025,E2,Cells 293T A2020,Cell_Line_1,0.002199,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.008333,E3,Cells 293T A2020,Cell_Line_1,0.00184,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.002778,E4,Cells 293T A2020,Cell_Line_1,0.009492,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.0009259,E5,Cells 293T A2020,Cell_Line_1,0.1121,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.0003086,E6,Cells 293T A2020,Cell_Line_1,0.5992,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,0.0001029,E7,Cells 293T A2020,Cell_Line_1,0.6249,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,3.429e-05,E8,Cells 293T A2020,Cell_Line_1,0.907,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,1.143e-05,E9,Cells 293T A2020,Cell_Line_1,1.039,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV A 2020,2,3.81e-06,E10,Cells 293T A2020,Cell_Line_1,1.089,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.025,B2,Cells 293T A2020,Cell_Line_1,0.00489,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.008333,B3,Cells 293T A2020,Cell_Line_1,0.001452,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.002778,B4,Cells 293T A2020,Cell_Line_1,0.002046,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.0009259,B5,Cells 293T A2020,Cell_Line_1,0.03573,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.0003086,B6,Cells 293T A2020,Cell_Line_1,0.221,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,0.0001029,B7,Cells 293T A2020,Cell_Line_1,0.4291,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,3.429e-05,B8,Cells 293T A2020,Cell_Line_1,0.7015,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,1.143e-05,B9,Cells 293T A2020,Cell_Line_1,0.6902,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,1,3.81e-06,B10,Cells 293T A2020,Cell_Line_1,0.7885,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.025,C2,Cells 293T A2020,Cell_Line_1,0.001699,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.008333,C3,Cells 293T A2020,Cell_Line_1,0.001785,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.002778,C4,Cells 293T A2020,Cell_Line_1,0.001951,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.0009259,C5,Cells 293T A2020,Cell_Line_1,0.02375,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.0003086,C6,Cells 293T A2020,Cell_Line_1,0.2289,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,0.0001029,C7,Cells 293T A2020,Cell_Line_1,0.5892,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,3.429e-05,C8,Cells 293T A2020,Cell_Line_1,0.7513,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,1.143e-05,C9,Cells 293T A2020,Cell_Line_1,0.6738,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV A 2020,2,3.81e-06,C10,Cells 293T A2020,Cell_Line_1,0.8726,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,1000,F2,Cells 293T Long,Cell_Line_1,0.0003206,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,250,F3,Cells 293T Long,Cell_Line_1,0.0004844,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,62.5,F4,Cells 293T Long,Cell_Line_1,0.0005369,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,15.62,F5,Cells 293T Long,Cell_Line_1,0.001521,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,3.906,F6,Cells 293T Long,Cell_Line_1,0.2233,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,0.9766,F7,Cells 293T Long,Cell_Line_1,1.065,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,0.2441,F8,Cells 293T Long,Cell_Line_1,0.8564,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,0.06104,F9,Cells 293T Long,Cell_Line_1,1.261,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,1,0.01526,F10,Cells 293T Long,Cell_Line_1,0.828,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,1000,G2,Cells 293T Long,Cell_Line_1,3.147e-05,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,250,G3,Cells 293T Long,Cell_Line_1,0.0002851,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,62.5,G4,Cells 293T Long,Cell_Line_1,0.0004234,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,15.62,G5,Cells 293T Long,Cell_Line_1,0.0009553,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,3.906,G6,Cells 293T Long,Cell_Line_1,0.08102,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,0.9766,G7,Cells 293T Long,Cell_Line_1,0.5541,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,0.2441,G8,Cells 293T Long,Cell_Line_1,1.385,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,0.06104,G9,Cells 293T Long,Cell_Line_1,1.267,24.10.31_RSVNeut_ControlSera_Greninger
+Nirsevimab_293T,RSV Long,2,0.01526,G10,Cells 293T Long,Cell_Line_1,1.299,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.025,D2,Cells 293T Long,Cell_Line_1,0.0004711,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.008333,D3,Cells 293T Long,Cell_Line_1,0.0002966,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.002778,D4,Cells 293T Long,Cell_Line_1,0.000546,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.0009259,D5,Cells 293T Long,Cell_Line_1,0.0009553,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.0003086,D6,Cells 293T Long,Cell_Line_1,0.04298,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,0.0001029,D7,Cells 293T Long,Cell_Line_1,0.6664,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,3.429e-05,D8,Cells 293T Long,Cell_Line_1,0.8029,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,1.143e-05,D9,Cells 293T Long,Cell_Line_1,0.7422,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,1,3.81e-06,D10,Cells 293T Long,Cell_Line_1,0.9118,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.025,E2,Cells 293T Long,Cell_Line_1,0.0005033,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.008333,E3,Cells 293T Long,Cell_Line_1,0.0004133,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.002778,E4,Cells 293T Long,Cell_Line_1,0.0003116,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.0009259,E5,Cells 293T Long,Cell_Line_1,0.01174,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.0003086,E6,Cells 293T Long,Cell_Line_1,0.04173,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,0.0001029,E7,Cells 293T Long,Cell_Line_1,0.384,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,3.429e-05,E8,Cells 293T Long,Cell_Line_1,0.7172,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,1.143e-05,E9,Cells 293T Long,Cell_Line_1,1.003,24.10.31_RSVNeut_ControlSera_Greninger
+Pooled Sera_293T,RSV Long,2,3.81e-06,E10,Cells 293T Long,Cell_Line_1,1.578,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.025,B2,Cells 293T Long,Cell_Line_1,0.0002819,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.008333,B3,Cells 293T Long,Cell_Line_1,0.0002977,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.002778,B4,Cells 293T Long,Cell_Line_1,0.0005366,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.0009259,B5,Cells 293T Long,Cell_Line_1,0.0006136,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.0003086,B6,Cells 293T Long,Cell_Line_1,0.04395,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,0.0001029,B7,Cells 293T Long,Cell_Line_1,0.3152,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,3.429e-05,B8,Cells 293T Long,Cell_Line_1,0.4433,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,1.143e-05,B9,Cells 293T Long,Cell_Line_1,1.066,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,1,3.81e-06,B10,Cells 293T Long,Cell_Line_1,0.6264,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.025,C2,Cells 293T Long,Cell_Line_1,0.0003133,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.008333,C3,Cells 293T Long,Cell_Line_1,0.000319,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.002778,C4,Cells 293T Long,Cell_Line_1,9.342e-05,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.0009259,C5,Cells 293T Long,Cell_Line_1,0.0007119,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.0003086,C6,Cells 293T Long,Cell_Line_1,0.00197,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,0.0001029,C7,Cells 293T Long,Cell_Line_1,0.05699,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,3.429e-05,C8,Cells 293T Long,Cell_Line_1,0.7983,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,1.143e-05,C9,Cells 293T Long,Cell_Line_1,0.7732,24.10.31_RSVNeut_ControlSera_Greninger
+87_9_293T,RSV Long,2,3.81e-06,C10,Cells 293T Long,Cell_Line_1,0.5826,24.10.31_RSVNeut_ControlSera_Greninger

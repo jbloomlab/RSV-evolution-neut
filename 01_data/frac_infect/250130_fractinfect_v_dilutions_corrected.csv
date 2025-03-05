@@ -1,0 +1,109 @@
+serum,virus,replicate,concentration,well_id,plate_name,experiment_rep,fraction infectivity,input_folder,
+Nirsevimab,N201S H Neat,1,1000,,N4,virus dilution,0.332066728,25.01.30,0.332066728
+Nirsevimab,N201S H Neat,1,285.7142857,,N4,virus dilution,0.565338276,25.01.30,0.565338276
+Nirsevimab,N201S H Neat,1,81.63265306,,N4,virus dilution,1.053753475,25.01.30,1.053753475
+Nirsevimab,N201S H Neat,1,23.32361516,,N4,virus dilution,1.081556997,25.01.30,1.081556997
+Nirsevimab,N201S H Neat,1,6.663890046,,N4,virus dilution,0.886468953,25.01.30,0.886468953
+Nirsevimab,N201S H Neat,1,1.903968585,,N4,virus dilution,1.101946247,25.01.30,1.101946247
+Nirsevimab,N201S H Neat,1,0.543991024,,N4,virus dilution,1.043558851,25.01.30,1.043558851
+Nirsevimab,N201S H Neat,1,0.155426007,,N4,virus dilution,0.982854495,25.01.30,0.982854495
+Nirsevimab,N201S H Neat,1,0.044407431,,N4,virus dilution,0.94068582,25.01.30,0.94068582
+Nirsevimab,N201S H Neat,2,1000,,N4,virus dilution,0.326923077,25.01.30,0.326923077
+Nirsevimab,N201S H Neat,2,285.7142857,,N4,virus dilution,0.762279889,25.01.30,0.762279889
+Nirsevimab,N201S H Neat,2,81.63265306,,N4,virus dilution,0.97497683,25.01.30,0.97497683
+Nirsevimab,N201S H Neat,2,23.32361516,,N4,virus dilution,1.110287303,25.01.30,1.110287303
+Nirsevimab,N201S H Neat,2,6.663890046,,N4,virus dilution,0.897590361,25.01.30,0.897590361
+Nirsevimab,N201S H Neat,2,1.903968585,,N4,virus dilution,1.103799815,25.01.30,1.103799815
+Nirsevimab,N201S H Neat,2,0.543991024,,N4,virus dilution,0.87442076,25.01.30,0.87442076
+Nirsevimab,N201S H Neat,2,0.155426007,,N4,virus dilution,1.006024096,25.01.30,1.006024096
+Nirsevimab,N201S H Neat,2,0.044407431,,N4,virus dilution,1.138090825,25.01.30,1.138090825
+Nirsevimab,N201S H 1-4,1,1000,,N4,virus dilution,0.17211704,25.01.30,0.17211704
+Nirsevimab,N201S H 1-4,1,285.7142857,,N4,virus dilution,0.398534229,25.01.30,0.398534229
+Nirsevimab,N201S H 1-4,1,81.63265306,,N4,virus dilution,0.80395314,25.01.30,0.80395314
+Nirsevimab,N201S H 1-4,1,23.32361516,,N4,virus dilution,0.720004442,25.01.30,0.720004442
+Nirsevimab,N201S H 1-4,1,6.663890046,,N4,virus dilution,0.649491977,25.01.30,0.649491977
+Nirsevimab,N201S H 1-4,1,1.903968585,,N4,virus dilution,1.134862029,25.01.30,1.134862029
+Nirsevimab,N201S H 1-4,1,0.543991024,,N4,virus dilution,0.864027539,25.01.30,0.864027539
+Nirsevimab,N201S H 1-4,1,0.155426007,,N4,virus dilution,0.928432625,25.01.30,0.928432625
+Nirsevimab,N201S H 1-4,1,0.044407431,,N4,virus dilution,0.937649214,25.01.30,0.937649214
+Nirsevimab,N201S H 1-4,2,1000,,N4,virus dilution,0.165232358,25.01.30,0.165232358
+Nirsevimab,N201S H 1-4,2,285.7142857,,N4,virus dilution,0.467825218,25.01.30,0.467825218
+Nirsevimab,N201S H 1-4,2,81.63265306,,N4,virus dilution,0.664926989,25.01.30,0.664926989
+Nirsevimab,N201S H 1-4,2,23.32361516,,N4,virus dilution,0.889567487,25.01.30,0.889567487
+Nirsevimab,N201S H 1-4,2,6.663890046,,N4,virus dilution,0.807839654,25.01.30,0.807839654
+Nirsevimab,N201S H 1-4,2,1.903968585,,N4,virus dilution,1.168175004,25.01.30,1.168175004
+Nirsevimab,N201S H 1-4,2,0.543991024,,N4,virus dilution,0.959302648,25.01.30,0.959302648
+Nirsevimab,N201S H 1-4,2,0.155426007,,N4,virus dilution,1.056465493,25.01.30,1.056465493
+Nirsevimab,N201S H 1-4,2,0.044407431,,N4,virus dilution,0.711898284,25.01.30,0.711898284
+Nirsevimab,N201S H 1-8,1,1000,,N4,virus dilution,0.166595197,25.01.30,0.166595197
+Nirsevimab,N201S H 1-8,1,285.7142857,,N4,virus dilution,0.439108062,25.01.30,0.439108062
+Nirsevimab,N201S H 1-8,1,81.63265306,,N4,virus dilution,0.608704974,25.01.30,0.608704974
+Nirsevimab,N201S H 1-8,1,23.32361516,,N4,virus dilution,0.884433962,25.01.30,0.884433962
+Nirsevimab,N201S H 1-8,1,6.663890046,,N4,virus dilution,1.214408233,25.01.30,1.214408233
+Nirsevimab,N201S H 1-8,1,1.903968585,,N4,virus dilution,1.183962264,25.01.30,1.183962264
+Nirsevimab,N201S H 1-8,1,0.543991024,,N4,virus dilution,1.066466552,25.01.30,1.066466552
+Nirsevimab,N201S H 1-8,1,0.155426007,,N4,virus dilution,0.818825043,25.01.30,0.818825043
+Nirsevimab,N201S H 1-8,1,0.044407431,,N4,virus dilution,0.829116638,25.01.30,0.829116638
+Nirsevimab,N201S H 1-8,2,1000,,N4,virus dilution,0.132268439,25.01.30,0.132268439
+Nirsevimab,N201S H 1-8,2,285.7142857,,N4,virus dilution,0.501072041,25.01.30,0.501072041
+Nirsevimab,N201S H 1-8,2,81.63265306,,N4,virus dilution,0.68932247,25.01.30,0.68932247
+Nirsevimab,N201S H 1-8,2,23.32361516,,N4,virus dilution,0.965694683,25.01.30,0.965694683
+Nirsevimab,N201S H 1-8,2,6.663890046,,N4,virus dilution,1.115780446,25.01.30,1.115780446
+Nirsevimab,N201S H 1-8,2,1.903968585,,N4,virus dilution,0.885506003,25.01.30,0.885506003
+Nirsevimab,N201S H 1-8,2,0.543991024,,N4,virus dilution,0.856989708,25.01.30,0.856989708
+Nirsevimab,N201S H 1-8,2,0.155426007,,N4,virus dilution,1.175814751,25.01.30,1.175814751
+Nirsevimab,N201S H 1-8,2,0.044407431,,N4,virus dilution,0.80338765,25.01.30,0.80338765
+Pooled Sera,B1982 H Neat,1,0.01,,P5,virus dilution,0.018477671,25.01.30,
+Pooled Sera,B1982 H Neat,1,0.003333333,,P5,virus dilution,0.161634424,25.01.30,
+Pooled Sera,B1982 H Neat,1,0.001111111,,P5,virus dilution,0.459772193,25.01.30,
+Pooled Sera,B1982 H Neat,1,0.00037037,,P5,virus dilution,0.826613632,25.01.30,
+Pooled Sera,B1982 H Neat,1,0.000123457,,P5,virus dilution,0.997468812,25.01.30,
+Pooled Sera,B1982 H Neat,1,4.12E-05,,P5,virus dilution,1.114445851,25.01.30,
+Pooled Sera,B1982 H Neat,1,1.37E-05,,P5,virus dilution,1.050804556,25.01.30,
+Pooled Sera,B1982 H Neat,1,4.57E-06,,P5,virus dilution,1.040860604,25.01.30,
+Pooled Sera,B1982 H Neat,1,1.52E-06,,P5,virus dilution,0.875790996,25.01.30,
+Pooled Sera,B1982 H Neat,2,0.01,,P5,virus dilution,0.018027481,25.01.30,
+Pooled Sera,B1982 H Neat,2,0.003333333,,P5,virus dilution,0.168323992,25.01.30,
+Pooled Sera,B1982 H Neat,2,0.001111111,,P5,virus dilution,0.519435907,25.01.30,
+Pooled Sera,B1982 H Neat,2,0.00037037,,P5,virus dilution,0.848128729,25.01.30,
+Pooled Sera,B1982 H Neat,2,0.000123457,,P5,virus dilution,1.016271922,25.01.30,
+Pooled Sera,B1982 H Neat,2,4.12E-05,,P5,virus dilution,1.032905442,25.01.30,
+Pooled Sera,B1982 H Neat,2,1.37E-05,,P5,virus dilution,1.063641295,25.01.30,
+Pooled Sera,B1982 H Neat,2,4.57E-06,,P5,virus dilution,1.111914663,25.01.30,
+Pooled Sera,B1982 H Neat,2,1.52E-06,,P5,virus dilution,0.96257458,25.01.30,
+Pooled Sera,B1982 H 1-4,1,0.01,,P5,virus dilution,0.016131131,25.01.30,
+Pooled Sera,B1982 H 1-4,1,0.003333333,,P5,virus dilution,0.047937938,25.01.30,
+Pooled Sera,B1982 H 1-4,1,0.001111111,,P5,virus dilution,0.245045045,25.01.30,
+Pooled Sera,B1982 H 1-4,1,0.00037037,,P5,virus dilution,0.543043043,25.01.30,
+Pooled Sera,B1982 H 1-4,1,0.000123457,,P5,virus dilution,0.767767768,25.01.30,
+Pooled Sera,B1982 H 1-4,1,4.12E-05,,P5,virus dilution,0.817817818,25.01.30,
+Pooled Sera,B1982 H 1-4,1,1.37E-05,,P5,virus dilution,1.004504505,25.01.30,
+Pooled Sera,B1982 H 1-4,1,4.57E-06,,P5,virus dilution,1.066066066,25.01.30,
+Pooled Sera,B1982 H 1-4,1,1.52E-06,,P5,virus dilution,0.728228228,25.01.30,
+Pooled Sera,B1982 H 1-4,2,0.01,,P5,virus dilution,0.005590591,25.01.30,
+Pooled Sera,B1982 H 1-4,2,0.003333333,,P5,virus dilution,0.040435435,25.01.30,
+Pooled Sera,B1982 H 1-4,2,0.001111111,,P5,virus dilution,0.203353353,25.01.30,
+Pooled Sera,B1982 H 1-4,2,0.00037037,,P5,virus dilution,0.589089089,25.01.30,
+Pooled Sera,B1982 H 1-4,2,0.000123457,,P5,virus dilution,0.792792793,25.01.30,
+Pooled Sera,B1982 H 1-4,2,4.12E-05,,P5,virus dilution,0.917917918,25.01.30,
+Pooled Sera,B1982 H 1-4,2,1.37E-05,,P5,virus dilution,0.811311311,25.01.30,
+Pooled Sera,B1982 H 1-4,2,4.57E-06,,P5,virus dilution,0.916416416,25.01.30,
+Pooled Sera,B1982 H 1-4,2,1.52E-06,,P5,virus dilution,0.774774775,25.01.30,
+Pooled Sera,B1982 H 1-8,1,0.01,,P5,virus dilution,0.005026183,25.01.30,
+Pooled Sera,B1982 H 1-8,1,0.003333333,,P5,virus dilution,0.004287809,25.01.30,
+Pooled Sera,B1982 H 1-8,1,0.001111111,,P5,virus dilution,0.144323419,25.01.30,
+Pooled Sera,B1982 H 1-8,1,0.00037037,,P5,virus dilution,0.645999162,25.01.30,
+Pooled Sera,B1982 H 1-8,1,0.000123457,,P5,virus dilution,0.684122329,25.01.30,
+Pooled Sera,B1982 H 1-8,1,4.12E-05,,P5,virus dilution,0.901968999,25.01.30,
+Pooled Sera,B1982 H 1-8,1,1.37E-05,,P5,virus dilution,0.969941349,25.01.30,
+Pooled Sera,B1982 H 1-8,1,4.57E-06,,P5,virus dilution,1.080854629,25.01.30,
+Pooled Sera,B1982 H 1-8,1,1.52E-06,,P5,virus dilution,0.996229577,25.01.30,
+Pooled Sera,B1982 H 1-8,2,0.01,,P5,virus dilution,0.009908881,25.01.30,
+Pooled Sera,B1982 H 1-8,2,0.003333333,,P5,virus dilution,0.003452032,25.01.30,
+Pooled Sera,B1982 H 1-8,2,0.001111111,,P5,virus dilution,0.127042313,25.01.30,
+Pooled Sera,B1982 H 1-8,2,0.00037037,,P5,virus dilution,0.5271261,25.01.30,
+Pooled Sera,B1982 H 1-8,2,0.000123457,,P5,virus dilution,0.78477168,25.01.30,
+Pooled Sera,B1982 H 1-8,2,4.12E-05,,P5,virus dilution,0.963238375,25.01.30,
+Pooled Sera,B1982 H 1-8,2,1.37E-05,,P5,virus dilution,1.053623796,25.01.30,
+Pooled Sera,B1982 H 1-8,2,4.57E-06,,P5,virus dilution,1.099706745,25.01.30,
+Pooled Sera,B1982 H 1-8,2,1.52E-06,,P5,virus dilution,1.148931713,25.01.30,

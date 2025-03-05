@@ -1,0 +1,19 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2024.11.14,B 1992 Plate 1,86_9,1,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 1,86_6,2,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 1,85_2,3,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 2,86_1,1,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 2,86_4,2,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 2,86_7,3,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 3,86_10,1,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 3,85_4,2,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 1992 Plate 3,87_9,3,RSV B 1992,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 1 ,86_9,1,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 1 ,86_6,2,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 1 ,85_2,3,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 2,86_1,1,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 2,86_4,2,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 2,86_7,3,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 3,86_10,1,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 3,85_4,2,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1
+2024.11.14,B 2019 Plate 3,87_9,3,RSV B 2019,layoutTM.csv,0.025,3,V,keep,RSV_Historical_Sera_1

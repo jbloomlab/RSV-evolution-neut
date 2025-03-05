@@ -1,0 +1,25 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2025.01.30,V1P1,Nirsevimab,1,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P1,D25,2,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P1,Suptavumab,3,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P2,Palivizumab,1,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P2,Clesrovimab,2,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P2,MPE8,3,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P3,AM14,1,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V1P3,hRSV90,2,RSV B N201S,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P1,Nirsevimab,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P1,D25,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P1,Suptavumab,3,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P2,Palivizumab,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P2,Clesrovimab,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P2,MPE8,3,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P3,AM14,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V2P3,hRSV90,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_1
+2025.01.30,V3P1,Nirsevimab,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P1,D25,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P1,Suptavumab,3,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P2,Palivizumab,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P2,Clesrovimab,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P2,MPE8,3,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P3,AM14,1,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2025.01.30,V3P3,hRSV90,2,RSV B N201T,layoutTM.csv,1000,3.5,V,keep,mAb_2

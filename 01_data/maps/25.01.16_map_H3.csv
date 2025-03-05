@@ -1,0 +1,7 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2025.01.16,Neth82,85_8,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3
+2025.01.16,Neth82,86_10,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3
+2025.01.16,Neth82,87_9,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3
+2025.01.16,MA22,85_8,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3
+2025.01.16,MA22,86_10,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3
+2025.01.16,MA22,87_9,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_3

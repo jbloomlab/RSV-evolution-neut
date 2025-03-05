@@ -1,0 +1,28 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*.tmp
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore conda environment files
+.env
+*.env
+
+# Ignore large log files
+*.log
+
+# Ignore the Conda environment directory if you create one locally
+RSV_evolution_neut/
+
+# Ignore any other secret or config files
+*.config

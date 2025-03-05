@@ -1,0 +1,9 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2024.12.13,RSVB1982_mAbsP1,Nirsevimab,1,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP1,D25,2,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP1,Suptavumab,3,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP2,Palivizumab,1,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP2,Clesrovimab,2,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP2,MPE8,3,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP3,AM14,1,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2
+2024.12.13,RSVB1982_mAbsP3,hRSV90,2,RSV B 1982,layoutTM.csv,1000,3.5,V,keep,mAb_2

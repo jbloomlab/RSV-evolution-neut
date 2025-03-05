@@ -1,0 +1,91 @@
+﻿serum,virus,replicate,concentration,fraction infectivity
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.025,0.0001398
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.008333,0.0001528
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.002778,0.0001758
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.0009259,0.002686
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.0003086,0.109
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,0.0001029,0.4585
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,3.429e-05,0.4633
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,1.143e-05,0.6279
+Undepleted Pooled Sera,RSV Long Pseudovirus,1,3.81e-06,0.8204
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.025,0.0001327
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.008333,0.0001212
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.002778,0.0001385
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.0009259,0.008638
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.0003086,0.1057
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,0.0001029,0.3221
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,3.429e-05,0.5724
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,1.143e-05,0.6316
+Undepleted Pooled Sera,RSV Long Pseudovirus,2,3.81e-06,0.8398
+Mock Depletion,RSV Long Pseudovirus,1,0.025,0.0006026
+Mock Depletion,RSV Long Pseudovirus,1,0.008333,0.002077
+Mock Depletion,RSV Long Pseudovirus,1,0.002778,0.004979
+Mock Depletion,RSV Long Pseudovirus,1,0.0009259,0.02269
+Mock Depletion,RSV Long Pseudovirus,1,0.0003086,0.1377
+Mock Depletion,RSV Long Pseudovirus,1,0.0001029,0.4477
+Mock Depletion,RSV Long Pseudovirus,1,3.429e-05,0.8953
+Mock Depletion,RSV Long Pseudovirus,1,1.143e-05,0.8835
+Mock Depletion,RSV Long Pseudovirus,1,3.81e-06,0.9052
+Mock Depletion,RSV Long Pseudovirus,2,0.025,0.0001893
+Mock Depletion,RSV Long Pseudovirus,2,0.008333,0.0003624
+Mock Depletion,RSV Long Pseudovirus,2,0.002778,0.0005432
+Mock Depletion,RSV Long Pseudovirus,2,0.0009259,0.01166
+Mock Depletion,RSV Long Pseudovirus,2,0.0003086,0.1042
+Mock Depletion,RSV Long Pseudovirus,2,0.0001029,0.2892
+Mock Depletion,RSV Long Pseudovirus,2,3.429e-05,0.4581
+Mock Depletion,RSV Long Pseudovirus,2,1.143e-05,0.7264
+Mock Depletion,RSV Long Pseudovirus,2,3.81e-06,1.099
+Long F Depletion,RSV Long Pseudovirus,1,0.025,0.02557
+Long F Depletion,RSV Long Pseudovirus,1,0.008333,0.4355
+Long F Depletion,RSV Long Pseudovirus,1,0.002778,0.8221
+Long F Depletion,RSV Long Pseudovirus,1,0.0009259,0.8386
+Long F Depletion,RSV Long Pseudovirus,1,0.0003086,1.313
+Long F Depletion,RSV Long Pseudovirus,1,0.0001029,0.9725
+Long F Depletion,RSV Long Pseudovirus,1,3.429e-05,1.046
+Long F Depletion,RSV Long Pseudovirus,1,1.143e-05,1.169
+Long F Depletion,RSV Long Pseudovirus,1,3.81e-06,1.003
+Long F Depletion,RSV Long Pseudovirus,2,0.025,0.03362
+Long F Depletion,RSV Long Pseudovirus,2,0.008333,0.3403
+Long F Depletion,RSV Long Pseudovirus,2,0.002778,1.157
+Long F Depletion,RSV Long Pseudovirus,2,0.0009259,1.138
+Long F Depletion,RSV Long Pseudovirus,2,0.0003086,1.181
+Long F Depletion,RSV Long Pseudovirus,2,0.0001029,1.188
+Long F Depletion,RSV Long Pseudovirus,2,3.429e-05,0.8848
+Long F Depletion,RSV Long Pseudovirus,2,1.143e-05,1.194
+Long F Depletion,RSV Long Pseudovirus,2,3.81e-06,0.8645
+PreF Depletion,RSV Long Pseudovirus,1,0.025,0.05322
+PreF Depletion,RSV Long Pseudovirus,1,0.008333,0.2113
+PreF Depletion,RSV Long Pseudovirus,1,0.002778,0.8371
+PreF Depletion,RSV Long Pseudovirus,1,0.0009259,1.159
+PreF Depletion,RSV Long Pseudovirus,1,0.0003086,1.102
+PreF Depletion,RSV Long Pseudovirus,1,0.0001029,1.043
+PreF Depletion,RSV Long Pseudovirus,1,3.429e-05,0.7722
+PreF Depletion,RSV Long Pseudovirus,1,1.143e-05,0.7981
+PreF Depletion,RSV Long Pseudovirus,1,3.81e-06,1.043
+PreF Depletion,RSV Long Pseudovirus,2,0.025,0.07005
+PreF Depletion,RSV Long Pseudovirus,2,0.008333,0.3351
+PreF Depletion,RSV Long Pseudovirus,2,0.002778,1.164
+PreF Depletion,RSV Long Pseudovirus,2,0.0009259,1.096
+PreF Depletion,RSV Long Pseudovirus,2,0.0003086,1.167
+PreF Depletion,RSV Long Pseudovirus,2,0.0001029,0.9292
+PreF Depletion,RSV Long Pseudovirus,2,3.429e-05,0.9759
+PreF Depletion,RSV Long Pseudovirus,2,1.143e-05,0.8283
+PreF Depletion,RSV Long Pseudovirus,2,3.81e-06,0.9981
+Long G Depletion,RSV Long Pseudovirus,1,0.025,0.0003081
+Long G Depletion,RSV Long Pseudovirus,1,0.008333,0.0005085
+Long G Depletion,RSV Long Pseudovirus,1,0.002778,0.00084
+Long G Depletion,RSV Long Pseudovirus,1,0.0009259,0.001206
+Long G Depletion,RSV Long Pseudovirus,1,0.0003086,0.08472
+Long G Depletion,RSV Long Pseudovirus,1,0.0001029,0.2893
+Long G Depletion,RSV Long Pseudovirus,1,3.429e-05,0.7791
+Long G Depletion,RSV Long Pseudovirus,1,1.143e-05,0.7876
+Long G Depletion,RSV Long Pseudovirus,1,3.81e-06,0.8617
+Long G Depletion,RSV Long Pseudovirus,2,0.025,0.0006016
+Long G Depletion,RSV Long Pseudovirus,2,0.008333,0.001771
+Long G Depletion,RSV Long Pseudovirus,2,0.002778,0.003531
+Long G Depletion,RSV Long Pseudovirus,2,0.0009259,0.01086
+Long G Depletion,RSV Long Pseudovirus,2,0.0003086,0.1329
+Long G Depletion,RSV Long Pseudovirus,2,0.0001029,0.3734
+Long G Depletion,RSV Long Pseudovirus,2,3.429e-05,0.7105
+Long G Depletion,RSV Long Pseudovirus,2,1.143e-05,0.8967
+Long G Depletion,RSV Long Pseudovirus,2,3.81e-06,1.095

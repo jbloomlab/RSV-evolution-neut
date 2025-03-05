@@ -1,0 +1,7 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2024.11.07,B2024 TIM1,Nirsevimab_TIM1,1,RSV B 2024,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.07,B2024 TIM1,Pooled Sera_TIM1,2,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.07,B2024 TIM1,87_9_TIM1,3,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.07,B2024 293T,Nirsevimab_293T,1,RSV B 2024,layoutTM.csv,1000,4,V,keep,Cell_Line_2
+2024.11.07,B2024 293T,Pooled Sera_293T,2,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Cell_Line_2
+2024.11.07,B2024 293T,87_9_293T,3,RSV B 2024,layoutTM.csv,0.025,3,V,keep,Cell_Line_2

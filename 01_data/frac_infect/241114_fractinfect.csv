@@ -1,0 +1,325 @@
+serum,virus,replicate,concentration,well_id,plate_name,experiment_rep,fraction infectivity,input_folder
+86_9,RSV B 1992,1,0.025,F2,B 1992 Plate 1,RSV_Historical_Sera_1,0.00246,24.11.14_additional_isolates
+86_9,RSV B 1992,1,0.008333,F3,B 1992 Plate 1,RSV_Historical_Sera_1,0.003519,24.11.14_additional_isolates
+86_9,RSV B 1992,1,0.002778,F4,B 1992 Plate 1,RSV_Historical_Sera_1,0.00758,24.11.14_additional_isolates
+86_9,RSV B 1992,1,0.0009259,F5,B 1992 Plate 1,RSV_Historical_Sera_1,0.006305,24.11.14_additional_isolates
+86_9,RSV B 1992,1,0.0003086,F6,B 1992 Plate 1,RSV_Historical_Sera_1,0.02135,24.11.14_additional_isolates
+86_9,RSV B 1992,1,0.0001029,F7,B 1992 Plate 1,RSV_Historical_Sera_1,0.1641,24.11.14_additional_isolates
+86_9,RSV B 1992,1,3.429e-05,F8,B 1992 Plate 1,RSV_Historical_Sera_1,0.5855,24.11.14_additional_isolates
+86_9,RSV B 1992,1,1.143e-05,F9,B 1992 Plate 1,RSV_Historical_Sera_1,0.7898,24.11.14_additional_isolates
+86_9,RSV B 1992,1,3.81e-06,F10,B 1992 Plate 1,RSV_Historical_Sera_1,1.005,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.025,G2,B 1992 Plate 1,RSV_Historical_Sera_1,0.002227,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.008333,G3,B 1992 Plate 1,RSV_Historical_Sera_1,0.003063,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.002778,G4,B 1992 Plate 1,RSV_Historical_Sera_1,0.002546,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.0009259,G5,B 1992 Plate 1,RSV_Historical_Sera_1,0.008026,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.0003086,G6,B 1992 Plate 1,RSV_Historical_Sera_1,0.01206,24.11.14_additional_isolates
+86_9,RSV B 1992,2,0.0001029,G7,B 1992 Plate 1,RSV_Historical_Sera_1,0.1219,24.11.14_additional_isolates
+86_9,RSV B 1992,2,3.429e-05,G8,B 1992 Plate 1,RSV_Historical_Sera_1,0.5295,24.11.14_additional_isolates
+86_9,RSV B 1992,2,1.143e-05,G9,B 1992 Plate 1,RSV_Historical_Sera_1,0.7712,24.11.14_additional_isolates
+86_9,RSV B 1992,2,3.81e-06,G10,B 1992 Plate 1,RSV_Historical_Sera_1,0.8963,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.025,D2,B 1992 Plate 1,RSV_Historical_Sera_1,0.002377,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.008333,D3,B 1992 Plate 1,RSV_Historical_Sera_1,0.01048,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.002778,D4,B 1992 Plate 1,RSV_Historical_Sera_1,0.06632,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.0009259,D5,B 1992 Plate 1,RSV_Historical_Sera_1,0.2352,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.0003086,D6,B 1992 Plate 1,RSV_Historical_Sera_1,0.5781,24.11.14_additional_isolates
+86_6,RSV B 1992,1,0.0001029,D7,B 1992 Plate 1,RSV_Historical_Sera_1,1.004,24.11.14_additional_isolates
+86_6,RSV B 1992,1,3.429e-05,D8,B 1992 Plate 1,RSV_Historical_Sera_1,1.056,24.11.14_additional_isolates
+86_6,RSV B 1992,1,1.143e-05,D9,B 1992 Plate 1,RSV_Historical_Sera_1,1.036,24.11.14_additional_isolates
+86_6,RSV B 1992,1,3.81e-06,D10,B 1992 Plate 1,RSV_Historical_Sera_1,0.9332,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.025,E2,B 1992 Plate 1,RSV_Historical_Sera_1,0.002328,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.008333,E3,B 1992 Plate 1,RSV_Historical_Sera_1,0.0042,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.002778,E4,B 1992 Plate 1,RSV_Historical_Sera_1,0.06908,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.0009259,E5,B 1992 Plate 1,RSV_Historical_Sera_1,0.3038,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.0003086,E6,B 1992 Plate 1,RSV_Historical_Sera_1,0.7055,24.11.14_additional_isolates
+86_6,RSV B 1992,2,0.0001029,E7,B 1992 Plate 1,RSV_Historical_Sera_1,0.9165,24.11.14_additional_isolates
+86_6,RSV B 1992,2,3.429e-05,E8,B 1992 Plate 1,RSV_Historical_Sera_1,1.01,24.11.14_additional_isolates
+86_6,RSV B 1992,2,1.143e-05,E9,B 1992 Plate 1,RSV_Historical_Sera_1,1.118,24.11.14_additional_isolates
+86_6,RSV B 1992,2,3.81e-06,E10,B 1992 Plate 1,RSV_Historical_Sera_1,1.358,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.025,B2,B 1992 Plate 1,RSV_Historical_Sera_1,0.002513,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.008333,B3,B 1992 Plate 1,RSV_Historical_Sera_1,0.03423,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.002778,B4,B 1992 Plate 1,RSV_Historical_Sera_1,0.1516,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.0009259,B5,B 1992 Plate 1,RSV_Historical_Sera_1,0.6375,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.0003086,B6,B 1992 Plate 1,RSV_Historical_Sera_1,0.7288,24.11.14_additional_isolates
+85_2,RSV B 1992,1,0.0001029,B7,B 1992 Plate 1,RSV_Historical_Sera_1,0.8516,24.11.14_additional_isolates
+85_2,RSV B 1992,1,3.429e-05,B8,B 1992 Plate 1,RSV_Historical_Sera_1,0.9122,24.11.14_additional_isolates
+85_2,RSV B 1992,1,1.143e-05,B9,B 1992 Plate 1,RSV_Historical_Sera_1,0.9301,24.11.14_additional_isolates
+85_2,RSV B 1992,1,3.81e-06,B10,B 1992 Plate 1,RSV_Historical_Sera_1,1.013,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.025,C2,B 1992 Plate 1,RSV_Historical_Sera_1,0.005132,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.008333,C3,B 1992 Plate 1,RSV_Historical_Sera_1,0.01919,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.002778,C4,B 1992 Plate 1,RSV_Historical_Sera_1,0.2464,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.0009259,C5,B 1992 Plate 1,RSV_Historical_Sera_1,0.4965,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.0003086,C6,B 1992 Plate 1,RSV_Historical_Sera_1,0.8388,24.11.14_additional_isolates
+85_2,RSV B 1992,2,0.0001029,C7,B 1992 Plate 1,RSV_Historical_Sera_1,0.8586,24.11.14_additional_isolates
+85_2,RSV B 1992,2,3.429e-05,C8,B 1992 Plate 1,RSV_Historical_Sera_1,1.025,24.11.14_additional_isolates
+85_2,RSV B 1992,2,1.143e-05,C9,B 1992 Plate 1,RSV_Historical_Sera_1,1.215,24.11.14_additional_isolates
+85_2,RSV B 1992,2,3.81e-06,C10,B 1992 Plate 1,RSV_Historical_Sera_1,1.061,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.025,F2,B 1992 Plate 2,RSV_Historical_Sera_1,0.001564,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.008333,F3,B 1992 Plate 2,RSV_Historical_Sera_1,0.001998,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.002778,F4,B 1992 Plate 2,RSV_Historical_Sera_1,0.01975,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.0009259,F5,B 1992 Plate 2,RSV_Historical_Sera_1,0.1392,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.0003086,F6,B 1992 Plate 2,RSV_Historical_Sera_1,0.5286,24.11.14_additional_isolates
+86_1,RSV B 1992,1,0.0001029,F7,B 1992 Plate 2,RSV_Historical_Sera_1,0.8502,24.11.14_additional_isolates
+86_1,RSV B 1992,1,3.429e-05,F8,B 1992 Plate 2,RSV_Historical_Sera_1,1,24.11.14_additional_isolates
+86_1,RSV B 1992,1,1.143e-05,F9,B 1992 Plate 2,RSV_Historical_Sera_1,1.063,24.11.14_additional_isolates
+86_1,RSV B 1992,1,3.81e-06,F10,B 1992 Plate 2,RSV_Historical_Sera_1,1.153,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.025,G2,B 1992 Plate 2,RSV_Historical_Sera_1,0.001569,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.008333,G3,B 1992 Plate 2,RSV_Historical_Sera_1,0.00415,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.002778,G4,B 1992 Plate 2,RSV_Historical_Sera_1,0.03489,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.0009259,G5,B 1992 Plate 2,RSV_Historical_Sera_1,0.125,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.0003086,G6,B 1992 Plate 2,RSV_Historical_Sera_1,0.4718,24.11.14_additional_isolates
+86_1,RSV B 1992,2,0.0001029,G7,B 1992 Plate 2,RSV_Historical_Sera_1,0.7421,24.11.14_additional_isolates
+86_1,RSV B 1992,2,3.429e-05,G8,B 1992 Plate 2,RSV_Historical_Sera_1,0.948,24.11.14_additional_isolates
+86_1,RSV B 1992,2,1.143e-05,G9,B 1992 Plate 2,RSV_Historical_Sera_1,0.9938,24.11.14_additional_isolates
+86_1,RSV B 1992,2,3.81e-06,G10,B 1992 Plate 2,RSV_Historical_Sera_1,0.9792,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.025,D2,B 1992 Plate 2,RSV_Historical_Sera_1,0.004659,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.008333,D3,B 1992 Plate 2,RSV_Historical_Sera_1,0.002547,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.002778,D4,B 1992 Plate 2,RSV_Historical_Sera_1,0.007058,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.0009259,D5,B 1992 Plate 2,RSV_Historical_Sera_1,0.05637,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.0003086,D6,B 1992 Plate 2,RSV_Historical_Sera_1,0.306,24.11.14_additional_isolates
+86_4,RSV B 1992,1,0.0001029,D7,B 1992 Plate 2,RSV_Historical_Sera_1,0.6904,24.11.14_additional_isolates
+86_4,RSV B 1992,1,3.429e-05,D8,B 1992 Plate 2,RSV_Historical_Sera_1,0.8573,24.11.14_additional_isolates
+86_4,RSV B 1992,1,1.143e-05,D9,B 1992 Plate 2,RSV_Historical_Sera_1,1.04,24.11.14_additional_isolates
+86_4,RSV B 1992,1,3.81e-06,D10,B 1992 Plate 2,RSV_Historical_Sera_1,0.9322,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.025,E2,B 1992 Plate 2,RSV_Historical_Sera_1,0.002883,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.008333,E3,B 1992 Plate 2,RSV_Historical_Sera_1,0.003577,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.002778,E4,B 1992 Plate 2,RSV_Historical_Sera_1,0.00253,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.0009259,E5,B 1992 Plate 2,RSV_Historical_Sera_1,0.08557,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.0003086,E6,B 1992 Plate 2,RSV_Historical_Sera_1,0.43,24.11.14_additional_isolates
+86_4,RSV B 1992,2,0.0001029,E7,B 1992 Plate 2,RSV_Historical_Sera_1,0.7997,24.11.14_additional_isolates
+86_4,RSV B 1992,2,3.429e-05,E8,B 1992 Plate 2,RSV_Historical_Sera_1,0.9129,24.11.14_additional_isolates
+86_4,RSV B 1992,2,1.143e-05,E9,B 1992 Plate 2,RSV_Historical_Sera_1,0.9701,24.11.14_additional_isolates
+86_4,RSV B 1992,2,3.81e-06,E10,B 1992 Plate 2,RSV_Historical_Sera_1,0.9346,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.025,B2,B 1992 Plate 2,RSV_Historical_Sera_1,0.002069,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.008333,B3,B 1992 Plate 2,RSV_Historical_Sera_1,0.001818,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.002778,B4,B 1992 Plate 2,RSV_Historical_Sera_1,0.02247,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.0009259,B5,B 1992 Plate 2,RSV_Historical_Sera_1,0.1057,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.0003086,B6,B 1992 Plate 2,RSV_Historical_Sera_1,0.4497,24.11.14_additional_isolates
+86_7,RSV B 1992,1,0.0001029,B7,B 1992 Plate 2,RSV_Historical_Sera_1,0.6423,24.11.14_additional_isolates
+86_7,RSV B 1992,1,3.429e-05,B8,B 1992 Plate 2,RSV_Historical_Sera_1,0.9338,24.11.14_additional_isolates
+86_7,RSV B 1992,1,1.143e-05,B9,B 1992 Plate 2,RSV_Historical_Sera_1,0.9689,24.11.14_additional_isolates
+86_7,RSV B 1992,1,3.81e-06,B10,B 1992 Plate 2,RSV_Historical_Sera_1,0.875,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.025,C2,B 1992 Plate 2,RSV_Historical_Sera_1,0.001455,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.008333,C3,B 1992 Plate 2,RSV_Historical_Sera_1,0.008995,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.002778,C4,B 1992 Plate 2,RSV_Historical_Sera_1,0.01256,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.0009259,C5,B 1992 Plate 2,RSV_Historical_Sera_1,0.1868,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.0003086,C6,B 1992 Plate 2,RSV_Historical_Sera_1,0.6056,24.11.14_additional_isolates
+86_7,RSV B 1992,2,0.0001029,C7,B 1992 Plate 2,RSV_Historical_Sera_1,0.7839,24.11.14_additional_isolates
+86_7,RSV B 1992,2,3.429e-05,C8,B 1992 Plate 2,RSV_Historical_Sera_1,1.043,24.11.14_additional_isolates
+86_7,RSV B 1992,2,1.143e-05,C9,B 1992 Plate 2,RSV_Historical_Sera_1,1.195,24.11.14_additional_isolates
+86_7,RSV B 1992,2,3.81e-06,C10,B 1992 Plate 2,RSV_Historical_Sera_1,1.066,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.025,F2,B 1992 Plate 3,RSV_Historical_Sera_1,0.0009079,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.008333,F3,B 1992 Plate 3,RSV_Historical_Sera_1,0.005961,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.002778,F4,B 1992 Plate 3,RSV_Historical_Sera_1,0.03725,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.0009259,F5,B 1992 Plate 3,RSV_Historical_Sera_1,0.4195,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.0003086,F6,B 1992 Plate 3,RSV_Historical_Sera_1,0.8816,24.11.14_additional_isolates
+86_10,RSV B 1992,1,0.0001029,F7,B 1992 Plate 3,RSV_Historical_Sera_1,1.032,24.11.14_additional_isolates
+86_10,RSV B 1992,1,3.429e-05,F8,B 1992 Plate 3,RSV_Historical_Sera_1,1.243,24.11.14_additional_isolates
+86_10,RSV B 1992,1,1.143e-05,F9,B 1992 Plate 3,RSV_Historical_Sera_1,1.038,24.11.14_additional_isolates
+86_10,RSV B 1992,1,3.81e-06,F10,B 1992 Plate 3,RSV_Historical_Sera_1,1.046,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.025,G2,B 1992 Plate 3,RSV_Historical_Sera_1,0.0009741,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.008333,G3,B 1992 Plate 3,RSV_Historical_Sera_1,0.001063,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.002778,G4,B 1992 Plate 3,RSV_Historical_Sera_1,0.04728,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.0009259,G5,B 1992 Plate 3,RSV_Historical_Sera_1,0.3531,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.0003086,G6,B 1992 Plate 3,RSV_Historical_Sera_1,0.7609,24.11.14_additional_isolates
+86_10,RSV B 1992,2,0.0001029,G7,B 1992 Plate 3,RSV_Historical_Sera_1,0.8664,24.11.14_additional_isolates
+86_10,RSV B 1992,2,3.429e-05,G8,B 1992 Plate 3,RSV_Historical_Sera_1,1.191,24.11.14_additional_isolates
+86_10,RSV B 1992,2,1.143e-05,G9,B 1992 Plate 3,RSV_Historical_Sera_1,1.096,24.11.14_additional_isolates
+86_10,RSV B 1992,2,3.81e-06,G10,B 1992 Plate 3,RSV_Historical_Sera_1,1.132,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.025,D2,B 1992 Plate 3,RSV_Historical_Sera_1,0.001129,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.008333,D3,B 1992 Plate 3,RSV_Historical_Sera_1,0.01511,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.002778,D4,B 1992 Plate 3,RSV_Historical_Sera_1,0.1201,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.0009259,D5,B 1992 Plate 3,RSV_Historical_Sera_1,0.595,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.0003086,D6,B 1992 Plate 3,RSV_Historical_Sera_1,1.006,24.11.14_additional_isolates
+85_4,RSV B 1992,1,0.0001029,D7,B 1992 Plate 3,RSV_Historical_Sera_1,1.097,24.11.14_additional_isolates
+85_4,RSV B 1992,1,3.429e-05,D8,B 1992 Plate 3,RSV_Historical_Sera_1,1.189,24.11.14_additional_isolates
+85_4,RSV B 1992,1,1.143e-05,D9,B 1992 Plate 3,RSV_Historical_Sera_1,1.072,24.11.14_additional_isolates
+85_4,RSV B 1992,1,3.81e-06,D10,B 1992 Plate 3,RSV_Historical_Sera_1,1.146,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.025,E2,B 1992 Plate 3,RSV_Historical_Sera_1,0.0008694,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.008333,E3,B 1992 Plate 3,RSV_Historical_Sera_1,0.02534,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.002778,E4,B 1992 Plate 3,RSV_Historical_Sera_1,0.1657,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.0009259,E5,B 1992 Plate 3,RSV_Historical_Sera_1,0.4943,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.0003086,E6,B 1992 Plate 3,RSV_Historical_Sera_1,1.091,24.11.14_additional_isolates
+85_4,RSV B 1992,2,0.0001029,E7,B 1992 Plate 3,RSV_Historical_Sera_1,1.049,24.11.14_additional_isolates
+85_4,RSV B 1992,2,3.429e-05,E8,B 1992 Plate 3,RSV_Historical_Sera_1,1.415,24.11.14_additional_isolates
+85_4,RSV B 1992,2,1.143e-05,E9,B 1992 Plate 3,RSV_Historical_Sera_1,1.197,24.11.14_additional_isolates
+85_4,RSV B 1992,2,3.81e-06,E10,B 1992 Plate 3,RSV_Historical_Sera_1,1.24,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.025,B2,B 1992 Plate 3,RSV_Historical_Sera_1,0.0008405,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.008333,B3,B 1992 Plate 3,RSV_Historical_Sera_1,0.001062,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.002778,B4,B 1992 Plate 3,RSV_Historical_Sera_1,0.002942,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.0009259,B5,B 1992 Plate 3,RSV_Historical_Sera_1,0.003788,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.0003086,B6,B 1992 Plate 3,RSV_Historical_Sera_1,0.07638,24.11.14_additional_isolates
+87_9,RSV B 1992,1,0.0001029,B7,B 1992 Plate 3,RSV_Historical_Sera_1,0.255,24.11.14_additional_isolates
+87_9,RSV B 1992,1,3.429e-05,B8,B 1992 Plate 3,RSV_Historical_Sera_1,0.7668,24.11.14_additional_isolates
+87_9,RSV B 1992,1,1.143e-05,B9,B 1992 Plate 3,RSV_Historical_Sera_1,0.9001,24.11.14_additional_isolates
+87_9,RSV B 1992,1,3.81e-06,B10,B 1992 Plate 3,RSV_Historical_Sera_1,1.032,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.025,C2,B 1992 Plate 3,RSV_Historical_Sera_1,0.008053,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.008333,C3,B 1992 Plate 3,RSV_Historical_Sera_1,0.001287,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.002778,C4,B 1992 Plate 3,RSV_Historical_Sera_1,0.006176,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.0009259,C5,B 1992 Plate 3,RSV_Historical_Sera_1,0.008738,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.0003086,C6,B 1992 Plate 3,RSV_Historical_Sera_1,0.09019,24.11.14_additional_isolates
+87_9,RSV B 1992,2,0.0001029,C7,B 1992 Plate 3,RSV_Historical_Sera_1,0.3714,24.11.14_additional_isolates
+87_9,RSV B 1992,2,3.429e-05,C8,B 1992 Plate 3,RSV_Historical_Sera_1,0.9282,24.11.14_additional_isolates
+87_9,RSV B 1992,2,1.143e-05,C9,B 1992 Plate 3,RSV_Historical_Sera_1,0.9112,24.11.14_additional_isolates
+87_9,RSV B 1992,2,3.81e-06,C10,B 1992 Plate 3,RSV_Historical_Sera_1,1.074,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.025,F2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0005984,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.008333,F3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.001303,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.002778,F4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0007843,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.0009259,F5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.002667,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.0003086,F6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.00615,24.11.14_additional_isolates
+86_9,RSV B 2019,1,0.0001029,F7,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.07344,24.11.14_additional_isolates
+86_9,RSV B 2019,1,3.429e-05,F8,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.3394,24.11.14_additional_isolates
+86_9,RSV B 2019,1,1.143e-05,F9,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.7424,24.11.14_additional_isolates
+86_9,RSV B 2019,1,3.81e-06,F10,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.8223,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.025,G2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0003749,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.008333,G3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0004566,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.002778,G4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0009888,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.0009259,G5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.001602,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.0003086,G6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.009215,24.11.14_additional_isolates
+86_9,RSV B 2019,2,0.0001029,G7,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.08908,24.11.14_additional_isolates
+86_9,RSV B 2019,2,3.429e-05,G8,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.3734,24.11.14_additional_isolates
+86_9,RSV B 2019,2,1.143e-05,G9,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.7373,24.11.14_additional_isolates
+86_9,RSV B 2019,2,3.81e-06,G10,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9056,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.025,D2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.001596,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.008333,D3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.002033,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.002778,D4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.06618,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.0009259,D5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.2084,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.0003086,D6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.5836,24.11.14_additional_isolates
+86_6,RSV B 2019,1,0.0001029,D7,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9235,24.11.14_additional_isolates
+86_6,RSV B 2019,1,3.429e-05,D8,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.074,24.11.14_additional_isolates
+86_6,RSV B 2019,1,1.143e-05,D9,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.137,24.11.14_additional_isolates
+86_6,RSV B 2019,1,3.81e-06,D10,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.069,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.025,E2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0007009,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.008333,E3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.001193,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.002778,E4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.031,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.0009259,E5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.2555,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.0003086,E6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.6064,24.11.14_additional_isolates
+86_6,RSV B 2019,2,0.0001029,E7,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9208,24.11.14_additional_isolates
+86_6,RSV B 2019,2,3.429e-05,E8,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.058,24.11.14_additional_isolates
+86_6,RSV B 2019,2,1.143e-05,E9,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9698,24.11.14_additional_isolates
+86_6,RSV B 2019,2,3.81e-06,E10,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.008,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.025,B2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0005366,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.008333,B3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.009665,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.002778,B4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.1561,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.0009259,B5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.5379,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.0003086,B6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9162,24.11.14_additional_isolates
+85_2,RSV B 2019,1,0.0001029,B7,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9718,24.11.14_additional_isolates
+85_2,RSV B 2019,1,3.429e-05,B8,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.153,24.11.14_additional_isolates
+85_2,RSV B 2019,1,1.143e-05,B9,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.9707,24.11.14_additional_isolates
+85_2,RSV B 2019,1,3.81e-06,B10,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.002,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.025,C2,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.0005138,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.008333,C3,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.009413,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.002778,C4,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.163,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.0009259,C5,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.5609,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.0003086,C6,B 2019 Plate 1 ,RSV_Historical_Sera_1,0.982,24.11.14_additional_isolates
+85_2,RSV B 2019,2,0.0001029,C7,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.09,24.11.14_additional_isolates
+85_2,RSV B 2019,2,3.429e-05,C8,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.125,24.11.14_additional_isolates
+85_2,RSV B 2019,2,1.143e-05,C9,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.183,24.11.14_additional_isolates
+85_2,RSV B 2019,2,3.81e-06,C10,B 2019 Plate 1 ,RSV_Historical_Sera_1,1.089,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.025,F2,B 2019 Plate 2,RSV_Historical_Sera_1,0.00135,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.008333,F3,B 2019 Plate 2,RSV_Historical_Sera_1,0.001215,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.002778,F4,B 2019 Plate 2,RSV_Historical_Sera_1,0.0176,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.0009259,F5,B 2019 Plate 2,RSV_Historical_Sera_1,0.1649,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.0003086,F6,B 2019 Plate 2,RSV_Historical_Sera_1,0.482,24.11.14_additional_isolates
+86_1,RSV B 2019,1,0.0001029,F7,B 2019 Plate 2,RSV_Historical_Sera_1,0.8057,24.11.14_additional_isolates
+86_1,RSV B 2019,1,3.429e-05,F8,B 2019 Plate 2,RSV_Historical_Sera_1,0.9417,24.11.14_additional_isolates
+86_1,RSV B 2019,1,1.143e-05,F9,B 2019 Plate 2,RSV_Historical_Sera_1,0.9022,24.11.14_additional_isolates
+86_1,RSV B 2019,1,3.81e-06,F10,B 2019 Plate 2,RSV_Historical_Sera_1,0.9938,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.025,G2,B 2019 Plate 2,RSV_Historical_Sera_1,0.001628,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.008333,G3,B 2019 Plate 2,RSV_Historical_Sera_1,0.003153,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.002778,G4,B 2019 Plate 2,RSV_Historical_Sera_1,0.006537,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.0009259,G5,B 2019 Plate 2,RSV_Historical_Sera_1,0.1574,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.0003086,G6,B 2019 Plate 2,RSV_Historical_Sera_1,0.4593,24.11.14_additional_isolates
+86_1,RSV B 2019,2,0.0001029,G7,B 2019 Plate 2,RSV_Historical_Sera_1,0.7895,24.11.14_additional_isolates
+86_1,RSV B 2019,2,3.429e-05,G8,B 2019 Plate 2,RSV_Historical_Sera_1,1.015,24.11.14_additional_isolates
+86_1,RSV B 2019,2,1.143e-05,G9,B 2019 Plate 2,RSV_Historical_Sera_1,0.9521,24.11.14_additional_isolates
+86_1,RSV B 2019,2,3.81e-06,G10,B 2019 Plate 2,RSV_Historical_Sera_1,0.9448,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.025,D2,B 2019 Plate 2,RSV_Historical_Sera_1,0.000433,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.008333,D3,B 2019 Plate 2,RSV_Historical_Sera_1,0.0006886,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.002778,D4,B 2019 Plate 2,RSV_Historical_Sera_1,0.0009908,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.0009259,D5,B 2019 Plate 2,RSV_Historical_Sera_1,0.04213,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.0003086,D6,B 2019 Plate 2,RSV_Historical_Sera_1,0.3613,24.11.14_additional_isolates
+86_4,RSV B 2019,1,0.0001029,D7,B 2019 Plate 2,RSV_Historical_Sera_1,0.8124,24.11.14_additional_isolates
+86_4,RSV B 2019,1,3.429e-05,D8,B 2019 Plate 2,RSV_Historical_Sera_1,1.045,24.11.14_additional_isolates
+86_4,RSV B 2019,1,1.143e-05,D9,B 2019 Plate 2,RSV_Historical_Sera_1,1.303,24.11.14_additional_isolates
+86_4,RSV B 2019,1,3.81e-06,D10,B 2019 Plate 2,RSV_Historical_Sera_1,1.093,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.025,E2,B 2019 Plate 2,RSV_Historical_Sera_1,0.0006463,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.008333,E3,B 2019 Plate 2,RSV_Historical_Sera_1,0.002319,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.002778,E4,B 2019 Plate 2,RSV_Historical_Sera_1,0.002926,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.0009259,E5,B 2019 Plate 2,RSV_Historical_Sera_1,0.0552,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.0003086,E6,B 2019 Plate 2,RSV_Historical_Sera_1,0.284,24.11.14_additional_isolates
+86_4,RSV B 2019,2,0.0001029,E7,B 2019 Plate 2,RSV_Historical_Sera_1,0.6489,24.11.14_additional_isolates
+86_4,RSV B 2019,2,3.429e-05,E8,B 2019 Plate 2,RSV_Historical_Sera_1,0.8985,24.11.14_additional_isolates
+86_4,RSV B 2019,2,1.143e-05,E9,B 2019 Plate 2,RSV_Historical_Sera_1,0.9875,24.11.14_additional_isolates
+86_4,RSV B 2019,2,3.81e-06,E10,B 2019 Plate 2,RSV_Historical_Sera_1,0.9743,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.025,B2,B 2019 Plate 2,RSV_Historical_Sera_1,0.0003647,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.008333,B3,B 2019 Plate 2,RSV_Historical_Sera_1,0.0008135,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.002778,B4,B 2019 Plate 2,RSV_Historical_Sera_1,0.004604,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.0009259,B5,B 2019 Plate 2,RSV_Historical_Sera_1,0.1498,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.0003086,B6,B 2019 Plate 2,RSV_Historical_Sera_1,0.5396,24.11.14_additional_isolates
+86_7,RSV B 2019,1,0.0001029,B7,B 2019 Plate 2,RSV_Historical_Sera_1,0.7374,24.11.14_additional_isolates
+86_7,RSV B 2019,1,3.429e-05,B8,B 2019 Plate 2,RSV_Historical_Sera_1,1.021,24.11.14_additional_isolates
+86_7,RSV B 2019,1,1.143e-05,B9,B 2019 Plate 2,RSV_Historical_Sera_1,1.08,24.11.14_additional_isolates
+86_7,RSV B 2019,1,3.81e-06,B10,B 2019 Plate 2,RSV_Historical_Sera_1,1.058,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.025,C2,B 2019 Plate 2,RSV_Historical_Sera_1,0.0003326,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.008333,C3,B 2019 Plate 2,RSV_Historical_Sera_1,0.0005448,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.002778,C4,B 2019 Plate 2,RSV_Historical_Sera_1,0.009001,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.0009259,C5,B 2019 Plate 2,RSV_Historical_Sera_1,0.1252,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.0003086,C6,B 2019 Plate 2,RSV_Historical_Sera_1,0.539,24.11.14_additional_isolates
+86_7,RSV B 2019,2,0.0001029,C7,B 2019 Plate 2,RSV_Historical_Sera_1,0.8197,24.11.14_additional_isolates
+86_7,RSV B 2019,2,3.429e-05,C8,B 2019 Plate 2,RSV_Historical_Sera_1,1.069,24.11.14_additional_isolates
+86_7,RSV B 2019,2,1.143e-05,C9,B 2019 Plate 2,RSV_Historical_Sera_1,1.142,24.11.14_additional_isolates
+86_7,RSV B 2019,2,3.81e-06,C10,B 2019 Plate 2,RSV_Historical_Sera_1,0.9746,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.025,F2,B 2019 Plate 3,RSV_Historical_Sera_1,0.0004597,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.008333,F3,B 2019 Plate 3,RSV_Historical_Sera_1,0.003951,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.002778,F4,B 2019 Plate 3,RSV_Historical_Sera_1,0.09988,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.0009259,F5,B 2019 Plate 3,RSV_Historical_Sera_1,0.4991,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.0003086,F6,B 2019 Plate 3,RSV_Historical_Sera_1,0.8884,24.11.14_additional_isolates
+86_10,RSV B 2019,1,0.0001029,F7,B 2019 Plate 3,RSV_Historical_Sera_1,1.049,24.11.14_additional_isolates
+86_10,RSV B 2019,1,3.429e-05,F8,B 2019 Plate 3,RSV_Historical_Sera_1,1.038,24.11.14_additional_isolates
+86_10,RSV B 2019,1,1.143e-05,F9,B 2019 Plate 3,RSV_Historical_Sera_1,1.031,24.11.14_additional_isolates
+86_10,RSV B 2019,1,3.81e-06,F10,B 2019 Plate 3,RSV_Historical_Sera_1,1.034,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.025,G2,B 2019 Plate 3,RSV_Historical_Sera_1,0.0003407,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.008333,G3,B 2019 Plate 3,RSV_Historical_Sera_1,0.01241,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.002778,G4,B 2019 Plate 3,RSV_Historical_Sera_1,0.1273,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.0009259,G5,B 2019 Plate 3,RSV_Historical_Sera_1,0.5065,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.0003086,G6,B 2019 Plate 3,RSV_Historical_Sera_1,0.7266,24.11.14_additional_isolates
+86_10,RSV B 2019,2,0.0001029,G7,B 2019 Plate 3,RSV_Historical_Sera_1,0.8446,24.11.14_additional_isolates
+86_10,RSV B 2019,2,3.429e-05,G8,B 2019 Plate 3,RSV_Historical_Sera_1,0.9984,24.11.14_additional_isolates
+86_10,RSV B 2019,2,1.143e-05,G9,B 2019 Plate 3,RSV_Historical_Sera_1,1.02,24.11.14_additional_isolates
+86_10,RSV B 2019,2,3.81e-06,G10,B 2019 Plate 3,RSV_Historical_Sera_1,0.9497,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.025,D2,B 2019 Plate 3,RSV_Historical_Sera_1,0.001872,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.008333,D3,B 2019 Plate 3,RSV_Historical_Sera_1,0.04367,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.002778,D4,B 2019 Plate 3,RSV_Historical_Sera_1,0.2897,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.0009259,D5,B 2019 Plate 3,RSV_Historical_Sera_1,0.6775,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.0003086,D6,B 2019 Plate 3,RSV_Historical_Sera_1,0.9173,24.11.14_additional_isolates
+85_4,RSV B 2019,1,0.0001029,D7,B 2019 Plate 3,RSV_Historical_Sera_1,1.06,24.11.14_additional_isolates
+85_4,RSV B 2019,1,3.429e-05,D8,B 2019 Plate 3,RSV_Historical_Sera_1,1.156,24.11.14_additional_isolates
+85_4,RSV B 2019,1,1.143e-05,D9,B 2019 Plate 3,RSV_Historical_Sera_1,0.9878,24.11.14_additional_isolates
+85_4,RSV B 2019,1,3.81e-06,D10,B 2019 Plate 3,RSV_Historical_Sera_1,0.9651,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.025,E2,B 2019 Plate 3,RSV_Historical_Sera_1,0.003653,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.008333,E3,B 2019 Plate 3,RSV_Historical_Sera_1,0.04515,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.002778,E4,B 2019 Plate 3,RSV_Historical_Sera_1,0.3633,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.0009259,E5,B 2019 Plate 3,RSV_Historical_Sera_1,0.7246,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.0003086,E6,B 2019 Plate 3,RSV_Historical_Sera_1,1.085,24.11.14_additional_isolates
+85_4,RSV B 2019,2,0.0001029,E7,B 2019 Plate 3,RSV_Historical_Sera_1,1.035,24.11.14_additional_isolates
+85_4,RSV B 2019,2,3.429e-05,E8,B 2019 Plate 3,RSV_Historical_Sera_1,0.9924,24.11.14_additional_isolates
+85_4,RSV B 2019,2,1.143e-05,E9,B 2019 Plate 3,RSV_Historical_Sera_1,0.9861,24.11.14_additional_isolates
+85_4,RSV B 2019,2,3.81e-06,E10,B 2019 Plate 3,RSV_Historical_Sera_1,1.036,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.025,B2,B 2019 Plate 3,RSV_Historical_Sera_1,0.0004921,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.008333,B3,B 2019 Plate 3,RSV_Historical_Sera_1,0.001414,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.002778,B4,B 2019 Plate 3,RSV_Historical_Sera_1,0.0007658,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.0009259,B5,B 2019 Plate 3,RSV_Historical_Sera_1,0.01177,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.0003086,B6,B 2019 Plate 3,RSV_Historical_Sera_1,0.1186,24.11.14_additional_isolates
+87_9,RSV B 2019,1,0.0001029,B7,B 2019 Plate 3,RSV_Historical_Sera_1,0.5264,24.11.14_additional_isolates
+87_9,RSV B 2019,1,3.429e-05,B8,B 2019 Plate 3,RSV_Historical_Sera_1,0.6909,24.11.14_additional_isolates
+87_9,RSV B 2019,1,1.143e-05,B9,B 2019 Plate 3,RSV_Historical_Sera_1,0.8304,24.11.14_additional_isolates
+87_9,RSV B 2019,1,3.81e-06,B10,B 2019 Plate 3,RSV_Historical_Sera_1,0.9287,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.025,C2,B 2019 Plate 3,RSV_Historical_Sera_1,0.0006596,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.008333,C3,B 2019 Plate 3,RSV_Historical_Sera_1,0.001112,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.002778,C4,B 2019 Plate 3,RSV_Historical_Sera_1,0.002013,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.0009259,C5,B 2019 Plate 3,RSV_Historical_Sera_1,0.007465,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.0003086,C6,B 2019 Plate 3,RSV_Historical_Sera_1,0.122,24.11.14_additional_isolates
+87_9,RSV B 2019,2,0.0001029,C7,B 2019 Plate 3,RSV_Historical_Sera_1,0.4748,24.11.14_additional_isolates
+87_9,RSV B 2019,2,3.429e-05,C8,B 2019 Plate 3,RSV_Historical_Sera_1,0.8392,24.11.14_additional_isolates
+87_9,RSV B 2019,2,1.143e-05,C9,B 2019 Plate 3,RSV_Historical_Sera_1,0.9603,24.11.14_additional_isolates
+87_9,RSV B 2019,2,3.81e-06,C10,B 2019 Plate 3,RSV_Historical_Sera_1,1.021,24.11.14_additional_isolates

@@ -1,0 +1,43 @@
+﻿Date_Read,Plate,Sample,SampleNum,Virus,PlateLayout,StartDil,DilFactor,Orientation,background,experiment_rep
+2024.12.12,Neth82P1,85_1,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P1,85_2,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P1,85_4,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P2,85_6,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P2,86_1,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P2,86_2,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P3,86_4,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P3,86_6,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82P3,85_3,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P4,87_4,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P4,85_7,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P4,85_8,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P5,86_7,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P5,86_8,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P5,86_9,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P6,86_10,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P6,86_12,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P6,87_7,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P7,87_8,1,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P7,87_9,2,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,Neth82 P7,BEI_neg,3,Influenza H3 1982,layoutTM.csv,0.025,3,V,keep,BEI
+2024.12.12,MA22 P1,85_1,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P1,85_2,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P1,85_4,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P2,85_6,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P2,86_1,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P2,86_2,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P3,86_4,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P3,86_6,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P3,85_3,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P4,87_4,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P4,85_7,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P4,85_8,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P5,86_7,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P5,86_8,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P5,86_9,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P6,86_10,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P6,86_12,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P6,87_7,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P7,87_8,1,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P7,87_9,2,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,H3_Historical_Sera_1
+2024.12.12,MA22 P7,BEI_neg,3,Influenza H3 2022,layoutTM.csv,0.025,3,V,keep,BEI

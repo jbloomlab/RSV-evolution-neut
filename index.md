@@ -1,5 +1,7 @@
 # RSV Evolution Neutralization Project
 
+Plots for for [Simonich et al (2025)](https://www.biorxiv.org/content/10.1101/2025.03.11.642476v1), a study on RSV evolution from the [Bloom lab](https://jbloomlab.org/).
+
 ## Methods
 
 Study done by Cassie Simonich and Teagan McMahon starting in 2024. This study validates a pseudovirus based neutralization assay developed by the authors and also looks at how well mAbs and human serum retain their neutralization as RSV evolves over time. See [repo for full analysis](https://github.com/jbloomlab/RSV-evolution-neut).

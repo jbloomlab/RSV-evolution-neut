@@ -1,6 +1,6 @@
 LOCUS       4832_HDM_RSV_A2_G32AACTdel_GSOpt 5370 bp ds-DNA     circular     09-AUG-2024
 DEFINITION  .
-COMMENT     RSV lab adapted A2 strain G with 32 amino acid cytoplasmic tail truncation. Gene fragment ordered by Cassie from Twist. Flanks were included for cloning into HDM (27) cut by NotI and HindIII. Insert sequence confirmed by Cassie with whole plasmid sequencing by Pladmisaurus.
+COMMENT     RSV lab adapted A2 strain G with 31 amino acid cytoplasmic tail truncation. Gene fragment ordered by Cassie from Twist. Flanks were included for cloning into HDM (27) cut by NotI and HindIII. Insert sequence confirmed by Cassie with whole plasmid sequencing by Pladmisaurus.
 FEATURES             Location/Qualifiers
      rep_origin      1..589
                      /label="ori"

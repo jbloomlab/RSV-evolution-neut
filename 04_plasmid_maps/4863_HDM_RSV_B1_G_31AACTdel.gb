@@ -1,6 +1,6 @@
 LOCUS       4863_HDM_RSVB1_G32AACTdel 5373 bp ds-DNA     circular     28-AUG-2024
 DEFINITION  .
-COMMENT     RSV B isolate B1, also called BWV14617-85 G with 32 amino acid cytoplasmic tail truncation. G amino acid sequence is the same as ATCC isolate VR-1400 but has a 32 amino acid cytoplasmic tail truncation. Gene fragment ordered from Twist by Cassie with overhangs to clone into HDM. Sequence confirmed by GeneWiz whole plasmid sequencing by Teagan McMahon. 
+COMMENT     RSV B isolate B1, also called BWV14617-85 G with 31 amino acid cytoplasmic tail truncation. G amino acid sequence is the same as ATCC isolate VR-1400 but has a 32 amino acid cytoplasmic tail truncation. Gene fragment ordered from Twist by Cassie with overhangs to clone into HDM. Sequence confirmed by GeneWiz whole plasmid sequencing by Teagan McMahon. 
 FEATURES             Location/Qualifiers
      rep_origin      1..589
                      /label="ori"

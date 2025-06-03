@@ -14,7 +14,7 @@ Study done by Cassie Simonich and Teagan McMahon starting in 2024. This study va
   - [./raw_plate_reader/](01_data/raw_plate_reader/): Raw data, not read into the notebooks.
   - [./maps/](01_data/maps): includes .csv files of the plate maps used to calculate fraction infectivity from .xlsx files
   - [./PlateLayouts/](01_data/PlateLayouts): includes .csv files of the plate layouts used to calculate fraction infectivity from .xlsx files
-  - [./other/](01_data/other): includes .csv files for plotting of other (non fraction infectivity) data type, mainly titer data. Also includes fraction infectivities for the 293T vs 293T TIM1 test
+  - [./other/](01_data/other): includes .csv files for plotting of other data types (not fraction infectivity used in major summary plots), mainly titer data but also includes .tif files for western blot images. Also includes fraction infectivities for the 293T vs 293T TIM1 test. 
 - [./02_notebooks/](02_notebooks): Jupyter notebooks for data processing and visualization.
 - [./03_output/](03_output)
   - [./plots/](03_output/plots): Saved plots from the notebooks.

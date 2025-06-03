@@ -1,0 +1,13 @@
+﻿Sample,Replicate ,Absorbance,uL pseudovirus,Dilution Factor
+media,1,0.0369,100,0
+blank,1,0.034,100,0
+RSV Long F + G full CT,1,1.869,100,0.86
+RSV Long F + G 31AACTdel,1,1.7522,100,0.86
+Conc RSV Long F + G full CT,1,2.0021,100,1
+Conc RSV Long F + G 31AACTdel,1,1.9387,100,1
+media,2,0.0353,100,0
+blank,2,0.0345,100,0
+RSV Long F + G full CT,2,1.7573,100,0.86
+RSV Long F + G 31AACTdel,2,1.6784,100,0.86
+Conc RSV Long F + G full CT,2,1.6867,100,1
+Conc RSV Long F + G 31AACTdel,2,1.9679,100,1

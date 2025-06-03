@@ -22,7 +22,7 @@ Study done by Cassie Simonich and Teagan McMahon starting in 2024. This study va
   - [BEI comparison to published values 3C](03_output/plots/ReferenceSera_faceted_slope_graph_narrowV2.svg)
   - [Dilution of virus impacts neutralization RSV B N201S Supplemental 6A](03_output/plots/250130_VirusDilution_NirsN201S-H.svg)
   - [Dilution of virus impacts neutralization RSV B 1982 Supplemental 6A](03_output/plots/250130_VirusDilution_PoolB82_H.svg)
-  - [Increasing virus input after four fold dilution does not impact neutralization RSV Long Supplemental 6B](03_output/plots/250130_VirusDilution_PoolB82_H.svg)
+  - [Increasing virus input after four fold dilution does not impact neutralization RSV Long Supplemental 6B](03_output/plots/240926_Neut_Long_Nirsev_VirusAmt_SuppFig.svg)
 - for depleted sera neuts/ELISAs see:
   - [ELISA with RSV G, F, Pre-F 4B](03_output/plots/ELISACurves.pdf)
   - [Neutralization assay with depleted sera 4C](03_output/plots/241101_DepletedSera_NeutCurve_Fig.svg)

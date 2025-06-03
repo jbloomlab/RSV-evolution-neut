@@ -1,0 +1,96 @@
+﻿virus,protocol,target cell,replicate ,dilution,RLU,uL,RLU/uL
+Long old,ours,293T-TIM1,1,2,2.61E+08,50,5.23E+06
+Long old,ours,293T-TIM1,1,4,1.54E+08,25,6.16E+06
+Long old,ours,293T-TIM1,1,8,8.08E+07,12.5,6.46E+06
+Long old,ours,293T-TIM1,1,16,4.30E+07,6.25,6.88E+06
+Long old,ours,293T-TIM1,1,32,2.30E+07,3.125,7.34E+06
+Long old,ours,293T-TIM1,1,64,1.65E+07,1.5625,1.05E+07
+Long F -4+G (full),Haid et al,A549,1,2,3215,50,6.43E+01
+Long F -4+G (full),Haid et al,A549,1,4,2965,25,1.19E+02
+Long F -4+G (full),Haid et al,A549,1,8,772.1,12.5,6.18E+01
+Long F -4+G (full),Haid et al,A549,1,16,515.7,6.25,8.25E+01
+Long F -4+G (full),Haid et al,A549,1,32,274.2,3.125,8.77E+01
+Long F -4+G (full),Haid et al,A549,1,64,214.4,1.5625,1.37E+02
+Bald,Haid et al,A549,1,2,8934,50,1.79E+02
+Bald,Haid et al,A549,1,4,6239,25,2.50E+02
+VSVG,Haid et al,A549,1,2,13380000,50,2.68E+05
+VSVG,Haid et al,A549,1,4,6372000,25,2.55E+05
+VSVG,Haid et al,A549,1,8,3877000,12.5,3.10E+05
+VSVG,Haid et al,A549,1,16,1992000,6.25,3.19E+05
+VSVG,Haid et al,A549,1,32,1015000,3.125,3.25E+05
+VSVG,Haid et al,A549,1,64,595900,1.5625,3.81E+05
+Long old,ours,A549,1,2,1042000,50,2.08E+04
+Long old,ours,A549,1,4,483400,25,1.93E+04
+Long old,ours,A549,1,8,348500,12.5,2.79E+04
+Long old,ours,A549,1,16,174900,6.25,2.80E+04
+Long old,ours,A549,1,32,96800,3.125,3.10E+04
+Long old,ours,A549,1,64,56440,1.5625,3.61E+04
+ABJ ,Cui et al,Hep2,1,2,2072,50,4.14E+01
+ABJ ,Cui et al,Hep2,1,4,1218,25,4.87E+01
+ABJ ,Cui et al,Hep2,1,8,669.6,12.5,5.36E+01
+ABJ ,Cui et al,Hep2,2,2,2195,50,4.39E+01
+ABJ ,Cui et al,Hep2,2,4,1585,25,6.34E+01
+ABJ ,Cui et al,Hep2,2,8,706.6,12.5,5.65E+01
+VSVG,Cui et al,Hep2,1,2,117500,50,2.35E+03
+VSVG,Cui et al,Hep2,1,4,47830,25,1.91E+03
+VSVG,Cui et al,Hep2,1,8,24650,12.5,1.97E+03
+VSVG,Cui et al,Hep2,2,2,171300,50,3.43E+03
+VSVG,Cui et al,Hep2,2,4,46360,25,1.85E+03
+VSVG,Cui et al,Hep2,2,8,70970,12.5,5.68E+03
+Bald,Cui et al,Hep2,1,2,2513,50,5.03E+01
+Bald,Cui et al,Hep2,1,4,1269,25,5.08E+01
+Bald,Cui et al,Hep2,1,8,736.4,12.5,5.89E+01
+Bald,Cui et al,Hep2,2,2,2328,50,4.66E+01
+Bald,Cui et al,Hep2,2,4,1326,25,5.30E+01
+Bald,Cui et al,Hep2,2,8,625.9,12.5,5.01E+01
+Long old,ours,Hep2,1,2,279100,50,5.58E+03
+Long old,ours,Hep2,1,4,248600,25,9.94E+03
+Long old,ours,Hep2,1,8,66950,12.5,5.36E+03
+Long old,ours,Hep2,1,16,59290,6.25,9.49E+03
+Long old,ours,Hep2,1,32,22820,3.125,7.30E+03
+Long old,ours,Hep2,1,64,22940,1.5625,1.47E+04
+Long F -4+G (full),Haid et al,Hep2,1,2,4389,50,8.78E+01
+Long F -4+G (full),Haid et al,Hep2,1,4,2635,25,1.05E+02
+Long F -4+G (full),Haid et al,Hep2,1,8,1176,12.5,9.41E+01
+Bald,Haid et al,Hep2,1,2,1140,50,2.28E+01
+Bald,Haid et al,Hep2,1,4,660.9,25,2.64E+01
+Bald,Haid et al,Hep2,1,8,362,12.5,2.90E+01
+VSVG,Haid et al,Hep2,1,2,26170,50,5.23E+02
+VSVG,Haid et al,Hep2,1,4,34340,25,1.37E+03
+VSVG,Haid et al,Hep2,1,8,7881,12.5,6.30E+02
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,2,2106,50,4.21E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,4,1059,25,4.24E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,8,695.1,12.5,5.56E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,16,384.4,6.25,6.15E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,32,205.9,3.125,6.59E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,1,64,130.8,1.5625,8.37E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,2,2217,50,4.43E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,4,1534,25,6.14E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,8,936,12.5,7.49E+01
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,16,709.1,6.25,1.13E+02
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,32,337.7,3.125,1.08E+02
+Long F (full)+G (full),Hu et al,Huh7.5.1,2,64,207.7,1.5625,1.33E+02
+VSVG,Hu et al,Huh7.5.1,1,2,1.14E+07,50,2.28E+05
+VSVG,Hu et al,Huh7.5.1,1,4,7.41E+06,25,2.97E+05
+VSVG,Hu et al,Huh7.5.1,1,8,4.16E+06,12.5,3.33E+05
+VSVG,Hu et al,Huh7.5.1,1,16,2.29E+06,6.25,3.66E+05
+VSVG,Hu et al,Huh7.5.1,1,32,1.14E+06,3.125,3.66E+05
+VSVG,Hu et al,Huh7.5.1,1,64,5.82E+05,1.5625,3.73E+05
+VSVG,Hu et al,Huh7.5.1,2,2,1.00E+07,50,2.01E+05
+VSVG,Hu et al,Huh7.5.1,2,4,6.96E+06,25,2.78E+05
+VSVG,Hu et al,Huh7.5.1,2,8,4.08E+06,12.5,3.26E+05
+VSVG,Hu et al,Huh7.5.1,2,16,2.24E+06,6.25,3.59E+05
+VSVG,Hu et al,Huh7.5.1,2,32,1.14E+06,3.125,3.63E+05
+VSVG,Hu et al,Huh7.5.1,2,64,5.68E+05,1.5625,3.64E+05
+Bald,Hu et al,Huh7.5.1,2,2,5802,50,1.16E+02
+Bald,Hu et al,Huh7.5.1,2,4,4656,25,1.86E+02
+Bald,Hu et al,Huh7.5.1,2,8,2610,12.5,2.09E+02
+Bald,Hu et al,Huh7.5.1,2,16,1257,6.25,2.01E+02
+Bald,Hu et al,Huh7.5.1,2,32,607.3,3.125,1.94E+02
+Bald,Hu et al,Huh7.5.1,2,64,455.8,1.5625,2.92E+02
+Long old,ours,Huh7.5.1,1,2,1.14E+06,50,2.28E+04
+Long old,ours,Huh7.5.1,1,4,5.82E+05,25,2.33E+04
+Long old,ours,Huh7.5.1,1,8,2.84E+05,12.5,2.27E+04
+Long old,ours,Huh7.5.1,1,16,1.09E+05,6.25,1.74E+04
+Long old,ours,Huh7.5.1,1,32,8.49E+04,3.125,2.72E+04
+Long old,ours,Huh7.5.1,1,64,3.03E+04,1.5625,1.94E+04

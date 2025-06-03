@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"background": "transparent", "title": {"fontSize": 20, "fontWeight": "normal", "font": "Helvetica", "anchor": "start", "color": "#000000", "orient": "top", "offset": 5, "subtitleColor": "gray", "subtitleFont": "Helvetica", "subtitleFontWeight": "normal", "subtitleFontSize": 18, "subtitlePadding": 2}, "axis": {"domain": true, "domainColor": "black", "domainWidth": 1, "grid": false, "gridColor": "#DEDDDD", "gridWidth": 0.5, "labelFont": "Helvetica", "labelFontSize": 14, "labelFlush": false, "labelFontWeight": "bold", "labelPadding": 2, "tickColor": "black", "tickSize": 4, "tickWidth": 1, "titleFont": "Helvetica", "titleAlign": "center", "titleFontWeight": "bold", "titleFontSize": 14, "titlePadding": 5}, "legend": {"labelFont": "Helvetica", "labelFontSize": 14, "symbolSize": 100, "titleFont": "Helvetica", "titleFontSize": 14, "titleFontWeight": "bold", "padding": 5, "titleLimit": 200, "gradientLength": 100}, "range": {"category": ["#4e79a7", "#f28e2c", "#e15759", "#76b7b2", "#59a14f", "#edc949", "#af7aa1", "#ff9da7", "#9c755f", "#bab0ab"], "diverging": ["#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494"]}, "view": {"stroke": "transparent", "strokeWidth": 2}, "text": {"font": "Helvetica Light", "fontSize": 14}}, "layer": [{"mark": {"type": "rule", "color": "black", "size": 2}, "encoding": {"x": {"field": "target cell", "type": "nominal"}, "y": {"field": "lower_RLU_uL", "type": "quantitative"}, "y2": {"field": "upper_RLU_uL"}}}, {"layer": [{"mark": {"type": "tick", "color": "black", "orient": "horizontal", "size": 12, "thickness": 2}, "encoding": {"x": {"field": "target cell", "type": "nominal"}, "y": {"field": "lower_RLU_uL", "type": "quantitative"}}}, {"mark": {"type": "tick", "color": "black", "orient": "horizontal", "size": 12, "thickness": 2}, "encoding": {"x": {"field": "target cell", "type": "nominal"}, "y": {"field": "upper_RLU_uL", "type": "quantitative"}}}]}, {"mark": {"type": "point", "filled": true, "size": 80, "stroke": "black", "strokeWidth": 1.5}, "encoding": {"color": {"field": "target cell", "legend": {"title": "Target Cell"}, "scale": {"domain": ["A549", "Hep2", "Huh7.5.1", "293T-TIM1"], "range": ["#377eb8", "#4daf4a", "#e41a1c", "#999999"]}, "type": "nominal"}, "shape": {"field": "target cell", "legend": null, "scale": {"domain": ["A549", "Hep2", "Huh7.5.1", "293T-TIM1"], "range": ["circle", "diamond", "triangle", "square"]}, "type": "nominal"}, "tooltip": [{"field": "target cell", "type": "nominal"}, {"field": "mean_RLU_uL", "type": "quantitative"}, {"field": "std_RLU_uL", "type": "quantitative"}], "x": {"axis": {"labelAngle": -90, "labelFontSize": 14, "labelFontWeight": "bold", "titleFontSize": 16, "titleFontWeight": "bold"}, "field": "target cell", "title": "Target Cell", "type": "nominal"}, "y": {"axis": {"labelExpr": "{ 10: '10\u00b9', 100: '10\u00b2', 1000: '10\u00b3', 10000: '10\u2074', 100000: '10\u2075', 1000000: '10\u2076', 10000000: '10\u2077' }[datum.value]", "labelFontSize": 14, "titleFontSize": 16, "values": [10, 100, 1000, 10000, 100000, 1000000, 10000000]}, "field": "mean_RLU_uL", "scale": {"domain": [10, 8909163.71918303], "type": "log"}, "title": "Pseudovirus Titer (RLU/uL)", "type": "quantitative"}}}], "data": {"name": "data-aa1d274262cabc8cfb7ade0ea1cf7b9b"}, "height": 150, "width": 200, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-aa1d274262cabc8cfb7ade0ea1cf7b9b": [{"virus": "Long old", "target cell": "293T-TIM1", "protocol": "ours", "mean_RLU_uL": 7095000.0, "std_RLU_uL": 1814163.719183029, "lower_RLU_uL": 5280836.280816971, "upper_RLU_uL": 8909163.71918303, "virus_order": 5}, {"virus": "Long old", "target cell": "A549", "protocol": "ours", "mean_RLU_uL": 27183.33333333333, "std_RLU_uL": 6295.209819113789, "lower_RLU_uL": 20888.123514219544, "upper_RLU_uL": 33478.54315244712, "virus_order": 5}, {"virus": "Long old", "target cell": "Hep2", "protocol": "ours", "mean_RLU_uL": 8728.333333333334, "std_RLU_uL": 3493.04690301557, "lower_RLU_uL": 5235.286430317764, "upper_RLU_uL": 12221.380236348905, "virus_order": 5}, {"virus": "Long old", "target cell": "Huh7.5.1", "protocol": "ours", "mean_RLU_uL": 22133.33333333333, "std_RLU_uL": 3396.27246649421, "lower_RLU_uL": 18737.06086683912, "upper_RLU_uL": 25529.605799827543, "virus_order": 5}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
